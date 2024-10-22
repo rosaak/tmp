@@ -1,0 +1,1410 @@
+{
+  "name": "Oocyte",
+  "value": 2,
+  "children": [
+    {
+      "name": "1-cell",
+      "value": 3,
+      "children": [
+        {
+          "name": "2-cell",
+          "value": 3,
+          "children": [
+            {
+              "name": "4-cell",
+              "value": 3,
+              "children": [
+                {
+                  "name": "8-cell",
+                  "value": 3,
+                  "children": [
+                    {
+                      "name": "Morula",
+                      "value": 3,
+                      "children": [
+                        {
+                          "name": "Inner cell mass",
+                          "value": 90,
+                          "children": [
+                            {
+                              "name": "Hypoblast",
+                              "value": 44,
+                              "children": [
+                                {
+                                  "name": "Parietal endoderm",
+                                  "value": 79,
+                                  "children": [
+                                    {
+                                      "name": "Parietal endoderm",
+                                      "value": 268
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Visceral endoderm",
+                                  "value": 120,
+                                  "children": [
+                                    {
+                                      "name": "Extraembryonic visceral endoderm",
+                                      "value": 337,
+                                      "children": [
+                                        {
+                                          "name": "Embryonic visceral endoderm",
+                                          "value": 165,
+                                          "children": [
+                                            {
+                                              "name": "Embryonic visceral endoderm",
+                                              "value": 1260,
+                                              "children": [
+                                                {
+                                                  "name": "Gut",
+                                                  "value": 1896,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gut",
+                                                      "value": 21287,
+                                                      "children": [
+                                                        {
+                                                          "name": "Midgut/Hindgut epithelial cells",
+                                                          "value": 47855,
+                                                          "children": [
+                                                            {
+                                                              "name": "Intestinal goblet cells",
+                                                              "value": 1745
+                                                            },
+                                                            {
+                                                              "name": "Intestinal enteroendocrine cells",
+                                                              "value": 536
+                                                            },
+                                                            {
+                                                              "name": "Foregut epithelial cells",
+                                                              "value": 6962
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Hepatocytes",
+                                                          "value": 289569,
+                                                          "children": [
+                                                            {
+                                                              "name": "Biliary epithelial cells",
+                                                              "value": 1742,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Pancreatic acinar cells",
+                                                                  "value": 3747
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Lung progenitor cells",
+                                                          "value": 28988,
+                                                          "children": [
+                                                            {
+                                                              "name": "Alveolar Type 2 cells",
+                                                              "value": 21443
+                                                            },
+                                                            {
+                                                              "name": "Alveolar Type 1 cells",
+                                                              "value": 14321,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Lung cells (Eln+)",
+                                                                  "value": 5308
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Airway club cells",
+                                                              "value": 6264,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Airway goblet cells",
+                                                                  "value": 408
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Pancreatic islets",
+                                                          "value": 1323
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Extraembryonic visceral endoderm",
+                                          "value": 8894,
+                                          "children": [
+                                            {
+                                              "name": "Extraembryonic visceral endoderm",
+                                              "value": 1660
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Epiblast",
+                              "value": 877,
+                              "children": [
+                                {
+                                  "name": "Primitive streak",
+                                  "value": 222,
+                                  "children": [
+                                    {
+                                      "name": "Primitive streak",
+                                      "value": 7573,
+                                      "children": [
+                                        {
+                                          "name": "Nascent mesoderm",
+                                          "value": 5501,
+                                          "children": [
+                                            {
+                                              "name": "Paraxial mesoderm (Tbx6+)",
+                                              "value": 6185,
+                                              "children": [
+                                                {
+                                                  "name": "Intermediate mesoderm",
+                                                  "value": 1064,
+                                                  "children": [
+                                                    {
+                                                      "name": "Anterior intermediate mesoderm",
+                                                      "value": 7846,
+                                                      "children": [
+                                                        {
+                                                          "name": "Posterior intermediate mesoderm",
+                                                          "value": 10600,
+                                                          "children": [
+                                                            {
+                                                              "name": "Metanephric mesenchyme",
+                                                              "value": 29547,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Nephron progenitors",
+                                                                  "value": 20280,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Proximal tubule cells",
+                                                                      "value": 16160
+                                                                    },
+                                                                    {
+                                                                      "name": "Podocytes",
+                                                                      "value": 4879
+                                                                    },
+                                                                    {
+                                                                      "name": "Ascending loop of Henle",
+                                                                      "value": 4087,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Distal convoluted tubule",
+                                                                          "value": 1287
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "Connecting tubule",
+                                                                      "value": 563,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Collecting duct intercalated cells",
+                                                                          "value": 434
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Renal pericytes and mesangial cells",
+                                                              "value": 7956
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Ureteric bud",
+                                                          "value": 5851,
+                                                          "children": [
+                                                            {
+                                                              "name": "Collecting duct principal cells",
+                                                              "value": 1895
+                                                            },
+                                                            {
+                                                              "name": "Ureteric bud stalk",
+                                                              "value": 401
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Paraxial mesoderm (Tbx6-)",
+                                                  "value": 3107,
+                                                  "children": [
+                                                    {
+                                                      "name": "Dermomyotome",
+                                                      "value": 131048,
+                                                      "children": [
+                                                        {
+                                                          "name": "Muscle progenitor cells",
+                                                          "value": 27017,
+                                                          "children": [
+                                                            {
+                                                              "name": "Myoblasts",
+                                                              "value": 185751,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Myotubes",
+                                                                  "value": 43267
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Muscle progenitor cells (Prdm1+)",
+                                                              "value": 5017,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Myofibroblasts",
+                                                                  "value": 43951
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Dermatome",
+                                                          "value": 198888,
+                                                          "children": [
+                                                            {
+                                                              "name": "Facial mesenchyme",
+                                                              "value": 382752,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Early chondrocytes",
+                                                                  "value": 144311
+                                                                },
+                                                                {
+                                                                  "name": "Pre-osteoblasts (Sp7+)",
+                                                                  "value": 135893
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Sclerotome",
+                                                      "value": 476671,
+                                                      "children": [
+                                                        {
+                                                          "name": "Fibroblasts",
+                                                          "value": 648059,
+                                                          "children": [
+                                                            {
+                                                              "name": "Adipocyte progenitor cells",
+                                                              "value": 19823,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Brown adipocyte cells",
+                                                                  "value": 80279
+                                                                },
+                                                                {
+                                                                  "name": "Adipocyte cells (Cyp2e1+)",
+                                                                  "value": 14376
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Chondrocytes (Atp1a2+)",
+                                                              "value": 118412,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Chondrocytes (Otor+)",
+                                                                  "value": 12063
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Mesodermal progenitors (Tbx6+)",
+                                                  "value": 50325
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Extraembryonic mesoderm",
+                                              "value": 3194,
+                                              "children": [
+                                                {
+                                                  "name": "Allantois",
+                                                  "value": 2804,
+                                                  "children": [
+                                                    {
+                                                      "name": "Hematoendothelial progenitors",
+                                                      "value": 2598,
+                                                      "children": [
+                                                        {
+                                                          "name": "Blood progenitors",
+                                                          "value": 2978,
+                                                          "children": [
+                                                            {
+                                                              "name": "Primitive erythroid cells",
+                                                              "value": 6732,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Primitive erythroid cells",
+                                                                  "value": 108610
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Hematopoietic stem cells (Cd34+)",
+                                                              "value": 37750,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Monocytes",
+                                                                  "value": 29268,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Conventional dendritic cells",
+                                                                      "value": 4582
+                                                                    },
+                                                                    {
+                                                                      "name": "Adipose tissue macrophages",
+                                                                      "value": 4190
+                                                                    },
+                                                                    {
+                                                                      "name": "Hematopoietic stem cells (Mpo+)",
+                                                                      "value": 23128,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Monocytic myeloid-derived suppressor cells",
+                                                                          "value": 24741,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "PMN myeloid-derived suppressor cells",
+                                                                              "value": 15382
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "Border-associated macrophages",
+                                                                      "value": 65191,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Microglia",
+                                                                          "value": 8382
+                                                                        },
+                                                                        {
+                                                                          "name": "Kupffer cells",
+                                                                          "value": 33417
+                                                                        },
+                                                                        {
+                                                                          "name": "Border-associated macrophages (Ms4a8a+)",
+                                                                          "value": 4736
+                                                                        },
+                                                                        {
+                                                                          "name": "Osteoclasts",
+                                                                          "value": 3323
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Definitive early erythroblasts (CD36-)",
+                                                                  "value": 929291,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Definitive erythroblasts (CD36+)",
+                                                                      "value": 92446
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "B cell progenitors",
+                                                                  "value": 1295,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "B cells",
+                                                                      "value": 43057
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Megakaryocyte-erythroid progenitors",
+                                                                  "value": 13436,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Megakaryocytes",
+                                                                      "value": 14777
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Plasmacytoid dendritic cells",
+                                                                  "value": 1101
+                                                                },
+                                                                {
+                                                                  "name": "Granulocytes",
+                                                                  "value": 3547
+                                                                },
+                                                                {
+                                                                  "name": "Mast cells",
+                                                                  "value": 23828
+                                                                },
+                                                                {
+                                                                  "name": "T-NK progenitors",
+                                                                  "value": 1901,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "T cells",
+                                                                      "value": 70028,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Activated T cells",
+                                                                          "value": 6621
+                                                                        },
+                                                                        {
+                                                                          "name": "Natural killer cells",
+                                                                          "value": 2961
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "Regulatory T cells",
+                                                                      "value": 9800
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Endothelium",
+                                                          "value": 982,
+                                                          "children": [
+                                                            {
+                                                              "name": "Arterial endothelial cells",
+                                                              "value": 26943
+                                                            },
+                                                            {
+                                                              "name": "Endothelium",
+                                                              "value": 90215,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Venous and capillary endothelial cells",
+                                                                  "value": 59523,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Pericytes",
+                                                                      "value": 14055
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Brain capillary endothelial cells",
+                                                                  "value": 15179,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Brain pericytes",
+                                                                      "value": 3617
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Liver sinusoidal endothelial cells",
+                                                                  "value": 30802
+                                                                },
+                                                                {
+                                                                  "name": "Endocardial cells",
+                                                                  "value": 14071
+                                                                },
+                                                                {
+                                                                  "name": "Microvascular endothelial cells",
+                                                                  "value": 5624
+                                                                },
+                                                                {
+                                                                  "name": "Glomerular endothelial cells",
+                                                                  "value": 17038
+                                                                },
+                                                                {
+                                                                  "name": "Lymphatic vessel endothelial cells",
+                                                                  "value": 25269
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Hematoendothelial progenitors",
+                                                              "value": 9693
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Allantois",
+                                                      "value": 31010,
+                                                      "children": [
+                                                        {
+                                                          "name": "Splanchnic mesoderm",
+                                                          "value": 127703,
+                                                          "children": [
+                                                            {
+                                                              "name": "Foregut mesenchyme",
+                                                              "value": 17991,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Gut mesenchyme",
+                                                                  "value": 61542,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Gastrointestinal smooth muscle cells",
+                                                                      "value": 12120
+                                                                    },
+                                                                    {
+                                                                      "name": "Amniotic mesoderm",
+                                                                      "value": 25520,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Somatic mesoderm",
+                                                                          "value": 126741,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Limb mesenchyme progenitors",
+                                                                              "value": 223422
+                                                                            },
+                                                                            {
+                                                                              "name": "Mesothelial cells",
+                                                                              "value": 59211,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Proepicardium",
+                                                                                  "value": 9654
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "Second heart field",
+                                                                              "value": 3537,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "First heart field",
+                                                                                  "value": 28647,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Atrial cardiomyocytes",
+                                                                                      "value": 1286
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "Ventricular cardiomyocytes",
+                                                                                      "value": 3735
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "Extraembryonic mesoderm",
+                                                                              "value": 57543
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Hepatic mesenchyme",
+                                                              "value": 28242
+                                                            },
+                                                            {
+                                                              "name": "Renal stromal cells",
+                                                              "value": 22908
+                                                            },
+                                                            {
+                                                              "name": "Lung mesenchyme",
+                                                              "value": 74124
+                                                            },
+                                                            {
+                                                              "name": "Gonad progenitor cells",
+                                                              "value": 4598,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Granulosa cells",
+                                                                  "value": 108
+                                                                },
+                                                                {
+                                                                  "name": "Adrenocortical cells",
+                                                                  "value": 3048
+                                                                },
+                                                                {
+                                                                  "name": "Sertoli cells",
+                                                                  "value": 1719
+                                                                },
+                                                                {
+                                                                  "name": "Leydig cells",
+                                                                  "value": 294
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Vascular smooth muscle cells",
+                                                              "value": 24161,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Vascular smooth muscle cells (Pparg+)",
+                                                                  "value": 11440
+                                                                },
+                                                                {
+                                                                  "name": "Meninges",
+                                                                  "value": 6376
+                                                                },
+                                                                {
+                                                                  "name": "Airway smooth muscle cells",
+                                                                  "value": 6938
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Cardiopharyngeal mesoderm",
+                                                              "value": 19285
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Lateral plate mesoderm",
+                                                  "value": 2580,
+                                                  "children": [
+                                                    {
+                                                      "name": "Cardiopharyngeal mesoderm",
+                                                      "value": 2214
+                                                    },
+                                                    {
+                                                      "name": "Amniotic mesoderm",
+                                                      "value": 1152,
+                                                      "children": [
+                                                        {
+                                                          "name": "Gut mesenchyme",
+                                                          "value": 1065
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Cardiogenic mesoderm",
+                                                      "value": 877
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Primordial germ cells",
+                                              "value": 380,
+                                              "children": [
+                                                {
+                                                  "name": "Primordial germ cells",
+                                                  "value": 1712
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Definitive ectoderm",
+                                          "value": 6516,
+                                          "children": [
+                                            {
+                                              "name": "Surface ectoderm",
+                                              "value": 2795,
+                                              "children": [
+                                                {
+                                                  "name": "Amniotic ectoderm",
+                                                  "value": 524,
+                                                  "children": [
+                                                    {
+                                                      "name": "Amniotic ectoderm",
+                                                      "value": 11509,
+                                                      "children": [
+                                                        {
+                                                          "name": "Pre-epidermal keratinocytes",
+                                                          "value": 114402,
+                                                          "children": [
+                                                            {
+                                                              "name": "Basal keratinocytes",
+                                                              "value": 19591
+                                                            },
+                                                            {
+                                                              "name": "Granular keratinocytes",
+                                                              "value": 41185,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Conjunctival goblet cells",
+                                                                  "value": 1244
+                                                                },
+                                                                {
+                                                                  "name": "Bladder urothelial cells",
+                                                                  "value": 1313
+                                                                },
+                                                                {
+                                                                  "name": "Corneal epithelial cells",
+                                                                  "value": 1078
+                                                                },
+                                                                {
+                                                                  "name": "Branchial arch epithelium",
+                                                                  "value": 41134,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Dental epithelial cells",
+                                                                      "value": 9903
+                                                                    },
+                                                                    {
+                                                                      "name": "Tooth junctional epithelium",
+                                                                      "value": 2918
+                                                                    },
+                                                                    {
+                                                                      "name": "Parathyroid epithelial cells",
+                                                                      "value": 433
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Apical ectodermal ridge",
+                                                              "value": 6330
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Placodal area",
+                                                          "value": 60938,
+                                                          "children": [
+                                                            {
+                                                              "name": "Olfactory epithelial cells",
+                                                              "value": 33331,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Olfactory bulb cells",
+                                                                  "value": 5888
+                                                                },
+                                                                {
+                                                                  "name": "Olfactory pit cells",
+                                                                  "value": 2081,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Lens epithelial cells",
+                                                                      "value": 1605
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Pituitary/Pineal gland progenitors",
+                                                              "value": 2797,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Pituitary gland cells",
+                                                                  "value": 4964
+                                                                },
+                                                                {
+                                                                  "name": "Pineal gland",
+                                                                  "value": 540
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Otic epithelial cells",
+                                                              "value": 29337,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Cochlear hair cells",
+                                                                  "value": 574
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Thyroid gland cells",
+                                                              "value": 1578
+                                                            },
+                                                            {
+                                                              "name": "Thymic epithelial cells",
+                                                              "value": 1937
+                                                            },
+                                                            {
+                                                              "name": "Nonsensory cochlear epithelium",
+                                                              "value": 51
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "CLE and NMPs",
+                                                  "value": 4992,
+                                                  "children": [
+                                                    {
+                                                      "name": "Spinal cord",
+                                                      "value": 2150,
+                                                      "children": [
+                                                        {
+                                                          "name": "Floor plate",
+                                                          "value": 258,
+                                                          "children": [
+                                                            {
+                                                              "name": "Anterior floor plate",
+                                                              "value": 16274,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Hypothalamus",
+                                                                  "value": 53378,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Hypothalamus (Sim1+)",
+                                                                      "value": 14611,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Hypothalamic Sim1 neurons",
+                                                                          "value": 19592,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Glutamatergic neurons (after E13.0)",
+                                                                              "value": 570526,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Cajal-Retzius cells",
+                                                                                  "value": 81803,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Cortical Interneurons (Prox1+)",
+                                                                                      "value": 7555
+                                                                                    }
+                                                                                  ]
+                                                                                },
+                                                                                {
+                                                                                  "name": "Thalamic neuronal precursors",
+                                                                                  "value": 81788
+                                                                                },
+                                                                                {
+                                                                                  "name": "Cerebellar Purkinje cells",
+                                                                                  "value": 26737
+                                                                                },
+                                                                                {
+                                                                                  "name": "Precerebellar neurons",
+                                                                                  "value": 1286
+                                                                                },
+                                                                                {
+                                                                                  "name": "Neural progenitor cells (Ror1+)",
+                                                                                  "value": 33240
+                                                                                },
+                                                                                {
+                                                                                  "name": "Subplate neurons",
+                                                                                  "value": 103397
+                                                                                },
+                                                                                {
+                                                                                  "name": "Neurons (Slc17a8+)",
+                                                                                  "value": 1957
+                                                                                },
+                                                                                {
+                                                                                  "name": "Intermediate neuronal progenitors",
+                                                                                  "value": 42068,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Deep-layer neurons",
+                                                                                      "value": 236402,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Upper-layer neurons",
+                                                                                          "value": 238829
+                                                                                        },
+                                                                                        {
+                                                                                          "name": "GABAergic cortical interneurons",
+                                                                                          "value": 603448,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "GABAergic neurons (after E13.0)",
+                                                                                              "value": 292004
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "Neural progenitor cells (Neurod1+)",
+                                                                                      "value": 23270,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Spinal V1 interneurons",
+                                                                                          "value": 31325,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Spinal dI6 interneurons",
+                                                                                              "value": 10964,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Spinal V0 interneurons",
+                                                                                                  "value": 9397,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "Spinal V2a interneurons",
+                                                                                                      "value": 11065,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Spinal V3 interneurons",
+                                                                                                          "value": 4440
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "Spinal V2b interneurons",
+                                                                                              "value": 8575
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "Midbrain dopaminergic neurons",
+                                                                              "value": 5495
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "Telencephalon",
+                                                                      "value": 430409,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Dorsal telencephalon",
+                                                                          "value": 30144,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Choroid plexus",
+                                                                              "value": 9441,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Ependymal cells",
+                                                                                  "value": 5895
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        },
+                                                                        {
+                                                                          "name": "Astrocytes",
+                                                                          "value": 109750,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Multiciliated ependymal cells",
+                                                                              "value": 10452
+                                                                            },
+                                                                            {
+                                                                              "name": "Oligodendrocyte progenitor cells",
+                                                                              "value": 29522,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Committed oligodendrocyte precursors",
+                                                                                  "value": 1865
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "Cerebellum-related cells",
+                                                                              "value": 9252
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Floorplate and p3 domain",
+                                                                  "value": 44992,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Cranial motor neurons",
+                                                                      "value": 23754,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Spinal cord motor neurons",
+                                                                          "value": 31680
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Midbrain",
+                                                                  "value": 145124,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Midbrain-hindbrain boundary",
+                                                                      "value": 66071,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Anterior roof plate",
+                                                                          "value": 16098,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Posterior roof plate",
+                                                                              "value": 11623
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "Di/mesencephalon glutamatergic neurons",
+                                                                      "value": 30999,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Striatal projection neurons",
+                                                                          "value": 6235
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "Di/mesencephalon GABAergic neurons",
+                                                                      "value": 15589
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Spinal cord/r7/r8",
+                                                          "value": 395636,
+                                                          "children": [
+                                                            {
+                                                              "name": "Spinal dI5 interneurons",
+                                                              "value": 39157,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Spinal dI3 interneurons",
+                                                                  "value": 5430
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Spinal dI4 interneurons",
+                                                              "value": 38632
+                                                            },
+                                                            {
+                                                              "name": "Spinal dI2 interneurons",
+                                                              "value": 21843
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "NMPs and spinal cord progenitors",
+                                                      "value": 53734
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Midbrain",
+                                              "value": 1228
+                                            },
+                                            {
+                                              "name": "Forebrain",
+                                              "value": 1429,
+                                              "children": [
+                                                {
+                                                  "name": "Diencephalon",
+                                                  "value": 78021
+                                                },
+                                                {
+                                                  "name": "Eye field",
+                                                  "value": 43440,
+                                                  "children": [
+                                                    {
+                                                      "name": "Naive retinal progenitor cells",
+                                                      "value": 52693,
+                                                      "children": [
+                                                        {
+                                                          "name": "Retinal progenitor cells",
+                                                          "value": 10201,
+                                                          "children": [
+                                                            {
+                                                              "name": "Amacrine/Horizontal precursor cells",
+                                                              "value": 5154,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Amacrine cells",
+                                                                  "value": 10061,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Cholinergic amacrine cells",
+                                                                      "value": 1426
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "Horizontal cells",
+                                                                  "value": 910
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Bipolar precursor cells",
+                                                              "value": 3414
+                                                            },
+                                                            {
+                                                              "name": "Photoreceptor precursor cells",
+                                                              "value": 4703,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Cone precursor cells",
+                                                                  "value": 5744
+                                                                },
+                                                                {
+                                                                  "name": "Rod precursor cells",
+                                                                  "value": 2743
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "Retinal ganglion cells",
+                                                              "value": 11197,
+                                                              "children": [
+                                                                {
+                                                                  "name": "PV-containing retinal ganglion cells",
+                                                                  "value": 1133
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Ciliary margin cells",
+                                                          "value": 725,
+                                                          "children": [
+                                                            {
+                                                              "name": "Iris pigment epithelium",
+                                                              "value": 592
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Optic stalk",
+                                                      "value": 3457,
+                                                      "children": [
+                                                        {
+                                                          "name": "Suprachiasmatic nucleus",
+                                                          "value": 6017
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Retinal pigment cells",
+                                                      "value": 3242
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Hindbrain",
+                                              "value": 1075,
+                                              "children": [
+                                                {
+                                                  "name": "Hindbrain",
+                                                  "value": 197367,
+                                                  "children": [
+                                                    {
+                                                      "name": "Spinal dI1 interneurons",
+                                                      "value": 35714
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Neural crest",
+                                              "value": 721,
+                                              "children": [
+                                                {
+                                                  "name": "Neural crest (PNS glia)",
+                                                  "value": 70165,
+                                                  "children": [
+                                                    {
+                                                      "name": "Myelinating Schwann cells",
+                                                      "value": 35271,
+                                                      "children": [
+                                                        {
+                                                          "name": "Olfactory ensheathing cells",
+                                                          "value": 3947
+                                                        },
+                                                        {
+                                                          "name": "Satellite glial cells",
+                                                          "value": 6916
+                                                        },
+                                                        {
+                                                          "name": "Myelinating Schwann cells (Tgfb2+)",
+                                                          "value": 7151
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Melanocyte cells",
+                                                      "value": 3293
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Neural crest (PNS neurons)",
+                                                  "value": 51569,
+                                                  "children": [
+                                                    {
+                                                      "name": "Olfactory sensory neurons",
+                                                      "value": 40019,
+                                                      "children": [
+                                                        {
+                                                          "name": "Corticofugal neurons",
+                                                          "value": 2807
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Dorsal root ganglion neurons",
+                                                      "value": 13077
+                                                    },
+                                                    {
+                                                      "name": "Enteric neurons",
+                                                      "value": 4787
+                                                    },
+                                                    {
+                                                      "name": "Otic sensory neurons",
+                                                      "value": 7844
+                                                    },
+                                                    {
+                                                      "name": "Sympathetic neurons",
+                                                      "value": 18369
+                                                    },
+                                                    {
+                                                      "name": "Parasympathetic neurons",
+                                                      "value": 8353
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Anterior primitive streak",
+                                          "value": 893,
+                                          "children": [
+                                            {
+                                              "name": "Definitive endoderm",
+                                              "value": 354
+                                            },
+                                            {
+                                              "name": "Notochord",
+                                              "value": 952,
+                                              "children": [
+                                                {
+                                                  "name": "Notochord",
+                                                  "value": 3752,
+                                                  "children": [
+                                                    {
+                                                      "name": "Ciliated nodal cells",
+                                                      "value": 60
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Epiblast",
+                                  "value": 11315
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Trophectoderm",
+                          "value": 0,
+                          "children": [
+                            {
+                              "name": "Extraembryonic ectoderm",
+                              "value": 299,
+                              "children": [
+                                {
+                                  "name": "Extraembryonic ectoderm",
+                                  "value": 10351
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
