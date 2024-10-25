@@ -1,0 +1,4831 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Pre_gastrulation",
+      "children": [
+        {
+          "name": "Morula",
+          "size": 3,
+          "children": [
+            {
+              "name": "Inner cell mass",
+              "size": 90,
+              "children": [
+                {
+                  "name": "Hypoblast",
+                  "size": 44,
+                  "children": [
+                    {
+                      "name": "Parietal endoderm",
+                      "size": 268
+                    },
+                    {
+                      "name": "Visceral endoderm",
+                      "size": 120,
+                      "children": [
+                        {
+                          "name": "Extraembryonic visceral endoderm",
+                          "size": 1660
+                        },
+                        {
+                          "name": "Embryonic visceral endoderm",
+                          "size": 1260,
+                          "children": [
+                            {
+                              "name": "Gut",
+                              "size": 21287,
+                              "children": [
+                                {
+                                  "name": "Midgut/Hindgut epithelial cells",
+                                  "size": 47855,
+                                  "children": [
+                                    {
+                                      "name": "Intestinal goblet cells",
+                                      "size": 1745
+                                    },
+                                    {
+                                      "name": "Intestinal enteroendocrine cells",
+                                      "size": 536
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Hepatocytes",
+                                  "size": 289569,
+                                  "children": [
+                                    {
+                                      "name": "Biliary epithelial cells",
+                                      "size": 1742
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Lung progenitor cells",
+                                  "size": 28988,
+                                  "children": [
+                                    {
+                                      "name": "Alveolar Type 2 cells",
+                                      "size": 21443
+                                    },
+                                    {
+                                      "name": "Alveolar Type 1 cells",
+                                      "size": 14321,
+                                      "children": [
+                                        {
+                                          "name": "Lung cells (Eln+)",
+                                          "size": 5308
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Airway club cells",
+                                      "size": 6264,
+                                      "children": [
+                                        {
+                                          "name": "Airway goblet cells",
+                                          "size": 408
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Airway goblet cells",
+                                      "size": 408
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Foregut epithelial cells",
+                                  "size": 6962
+                                },
+                                {
+                                  "name": "Pancreatic acinar cells",
+                                  "size": 3747
+                                },
+                                {
+                                  "name": "Biliary epithelial cells",
+                                  "size": 1742
+                                },
+                                {
+                                  "name": "Pancreatic islets",
+                                  "size": 1323
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Epiblast",
+                  "size": 11315,
+                  "children": [
+                    {
+                      "name": "Primitive streak",
+                      "size": 7573,
+                      "children": [
+                        {
+                          "name": "Nascent mesoderm",
+                          "size": 5501,
+                          "children": [
+                            {
+                              "name": "Paraxial mesoderm (Tbx6+)",
+                              "size": 6185,
+                              "children": [
+                                {
+                                  "name": "Intermediate mesoderm",
+                                  "size": 1064
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Extraembryonic mesoderm",
+                              "size": 57543,
+                              "children": [
+                                {
+                                  "name": "Allantois",
+                                  "size": 31010,
+                                  "children": [
+                                    {
+                                      "name": "Hematoendothelial progenitors",
+                                      "size": 9693,
+                                      "children": [
+                                        {
+                                          "name": "Blood progenitors",
+                                          "size": 2978,
+                                          "children": [
+                                            {
+                                              "name": "Primitive erythroid cells",
+                                              "size": 108610
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Gut mesenchyme",
+                                  "size": 61542,
+                                  "children": [
+                                    {
+                                      "name": "Gastrointestinal smooth muscle cells",
+                                      "size": 12120
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Amniotic mesoderm",
+                                  "size": 25520
+                                },
+                                {
+                                  "name": "Allantois",
+                                  "size": 31010,
+                                  "children": [
+                                    {
+                                      "name": "Hematoendothelial progenitors",
+                                      "size": 9693,
+                                      "children": [
+                                        {
+                                          "name": "Blood progenitors",
+                                          "size": 2978,
+                                          "children": [
+                                            {
+                                              "name": "Primitive erythroid cells",
+                                              "size": 108610
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Limb mesenchyme progenitors",
+                                  "size": 223422
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Hematoendothelial progenitors",
+                              "size": 9693,
+                              "children": [
+                                {
+                                  "name": "Blood progenitors",
+                                  "size": 2978,
+                                  "children": [
+                                    {
+                                      "name": "Primitive erythroid cells",
+                                      "size": 108610
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cardiopharyngeal mesoderm",
+                              "size": 19285,
+                              "children": [
+                                {
+                                  "name": "Paraxial mesoderm (Tbx6-)",
+                                  "size": 3107
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Primordial germ cells",
+                              "size": 1712
+                            },
+                            {
+                              "name": "Lateral plate mesoderm",
+                              "size": 2580,
+                              "children": [
+                                {
+                                  "name": "Intermediate mesoderm",
+                                  "size": 1064
+                                },
+                                {
+                                  "name": "Amniotic mesoderm",
+                                  "size": 25520
+                                },
+                                {
+                                  "name": "Cardiogenic mesoderm",
+                                  "size": 877
+                                },
+                                {
+                                  "name": "Gut mesenchyme",
+                                  "size": 61542,
+                                  "children": [
+                                    {
+                                      "name": "Gastrointestinal smooth muscle cells",
+                                      "size": 12120
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Paraxial mesoderm (Tbx6-)",
+                              "size": 3107
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Primordial germ cells",
+                          "size": 1712
+                        },
+                        {
+                          "name": "Anterior primitive streak",
+                          "size": 893,
+                          "children": [
+                            {
+                              "name": "Definitive endoderm",
+                              "size": 354,
+                              "children": [
+                                {
+                                  "name": "Gut",
+                                  "size": 21287,
+                                  "children": [
+                                    {
+                                      "name": "Midgut/Hindgut epithelial cells",
+                                      "size": 47855,
+                                      "children": [
+                                        {
+                                          "name": "Intestinal goblet cells",
+                                          "size": 1745
+                                        },
+                                        {
+                                          "name": "Intestinal enteroendocrine cells",
+                                          "size": 536
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Hepatocytes",
+                                      "size": 289569,
+                                      "children": [
+                                        {
+                                          "name": "Biliary epithelial cells",
+                                          "size": 1742
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Lung progenitor cells",
+                                      "size": 28988,
+                                      "children": [
+                                        {
+                                          "name": "Alveolar Type 2 cells",
+                                          "size": 21443
+                                        },
+                                        {
+                                          "name": "Alveolar Type 1 cells",
+                                          "size": 14321,
+                                          "children": [
+                                            {
+                                              "name": "Lung cells (Eln+)",
+                                              "size": 5308
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Airway club cells",
+                                          "size": 6264,
+                                          "children": [
+                                            {
+                                              "name": "Airway goblet cells",
+                                              "size": 408
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Airway goblet cells",
+                                          "size": 408
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Foregut epithelial cells",
+                                      "size": 6962
+                                    },
+                                    {
+                                      "name": "Pancreatic acinar cells",
+                                      "size": 3747
+                                    },
+                                    {
+                                      "name": "Biliary epithelial cells",
+                                      "size": 1742
+                                    },
+                                    {
+                                      "name": "Pancreatic islets",
+                                      "size": 1323
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Notochord",
+                              "size": 3752,
+                              "children": [
+                                {
+                                  "name": "Ciliated nodal cells",
+                                  "size": 60
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Primitive streak",
+                      "size": 7573,
+                      "children": [
+                        {
+                          "name": "Nascent mesoderm",
+                          "size": 5501,
+                          "children": [
+                            {
+                              "name": "Paraxial mesoderm (Tbx6+)",
+                              "size": 6185,
+                              "children": [
+                                {
+                                  "name": "Intermediate mesoderm",
+                                  "size": 1064
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Extraembryonic mesoderm",
+                              "size": 57543,
+                              "children": [
+                                {
+                                  "name": "Allantois",
+                                  "size": 31010,
+                                  "children": [
+                                    {
+                                      "name": "Hematoendothelial progenitors",
+                                      "size": 9693,
+                                      "children": [
+                                        {
+                                          "name": "Blood progenitors",
+                                          "size": 2978,
+                                          "children": [
+                                            {
+                                              "name": "Primitive erythroid cells",
+                                              "size": 108610
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Gut mesenchyme",
+                                  "size": 61542,
+                                  "children": [
+                                    {
+                                      "name": "Gastrointestinal smooth muscle cells",
+                                      "size": 12120
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Amniotic mesoderm",
+                                  "size": 25520
+                                },
+                                {
+                                  "name": "Allantois",
+                                  "size": 31010,
+                                  "children": [
+                                    {
+                                      "name": "Hematoendothelial progenitors",
+                                      "size": 9693,
+                                      "children": [
+                                        {
+                                          "name": "Blood progenitors",
+                                          "size": 2978,
+                                          "children": [
+                                            {
+                                              "name": "Primitive erythroid cells",
+                                              "size": 108610
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Endothelium",
+                                          "size": 90215,
+                                          "children": [
+                                            {
+                                              "name": "Venous and capillary endothelial cells",
+                                              "size": 59523
+                                            },
+                                            {
+                                              "name": "Arterial endothelial cells",
+                                              "size": 26943
+                                            },
+                                            {
+                                              "name": "Brain capillary endothelial cells",
+                                              "size": 15179,
+                                              "children": [
+                                                {
+                                                  "name": "Brain pericytes",
+                                                  "size": 3617
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Pericytes",
+                                              "size": 14055
+                                            },
+                                            {
+                                              "name": "Liver sinusoidal endothelial cells",
+                                              "size": 30802
+                                            },
+                                            {
+                                              "name": "Endocardial cells",
+                                              "size": 14071
+                                            },
+                                            {
+                                              "name": "Microvascular endothelial cells",
+                                              "size": 5624
+                                            },
+                                            {
+                                              "name": "Glomerular endothelial cells",
+                                              "size": 17038
+                                            },
+                                            {
+                                              "name": "Lymphatic vessel endothelial cells",
+                                              "size": 25269
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Limb mesenchyme progenitors",
+                                  "size": 223422
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Hematoendothelial progenitors",
+                              "size": 9693,
+                              "children": [
+                                {
+                                  "name": "Blood progenitors",
+                                  "size": 2978,
+                                  "children": [
+                                    {
+                                      "name": "Primitive erythroid cells",
+                                      "size": 108610
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cardiopharyngeal mesoderm",
+                              "size": 19285,
+                              "children": [
+                                {
+                                  "name": "Paraxial mesoderm (Tbx6-)",
+                                  "size": 3107
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Primordial germ cells",
+                              "size": 1712
+                            },
+                            {
+                              "name": "Lateral plate mesoderm",
+                              "size": 2580,
+                              "children": [
+                                {
+                                  "name": "Intermediate mesoderm",
+                                  "size": 1064
+                                },
+                                {
+                                  "name": "Amniotic mesoderm",
+                                  "size": 25520
+                                },
+                                {
+                                  "name": "Cardiogenic mesoderm",
+                                  "size": 877
+                                },
+                                {
+                                  "name": "Gut mesenchyme",
+                                  "size": 61542,
+                                  "children": [
+                                    {
+                                      "name": "Gastrointestinal smooth muscle cells",
+                                      "size": 12120
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Paraxial mesoderm (Tbx6-)",
+                              "size": 3107
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Primordial germ cells",
+                          "size": 1712
+                        },
+                        {
+                          "name": "Anterior primitive streak",
+                          "size": 893,
+                          "children": [
+                            {
+                              "name": "Definitive endoderm",
+                              "size": 354,
+                              "children": [
+                                {
+                                  "name": "Gut",
+                                  "size": 21287,
+                                  "children": [
+                                    {
+                                      "name": "Midgut/Hindgut epithelial cells",
+                                      "size": 47855,
+                                      "children": [
+                                        {
+                                          "name": "Intestinal goblet cells",
+                                          "size": 1745
+                                        },
+                                        {
+                                          "name": "Intestinal enteroendocrine cells",
+                                          "size": 536
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Hepatocytes",
+                                      "size": 289569,
+                                      "children": [
+                                        {
+                                          "name": "Biliary epithelial cells",
+                                          "size": 1742
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Lung progenitor cells",
+                                      "size": 28988,
+                                      "children": [
+                                        {
+                                          "name": "Alveolar Type 2 cells",
+                                          "size": 21443
+                                        },
+                                        {
+                                          "name": "Alveolar Type 1 cells",
+                                          "size": 14321,
+                                          "children": [
+                                            {
+                                              "name": "Lung cells (Eln+)",
+                                              "size": 5308
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Airway club cells",
+                                          "size": 6264,
+                                          "children": [
+                                            {
+                                              "name": "Airway goblet cells",
+                                              "size": 408
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Airway goblet cells",
+                                          "size": 408
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Foregut epithelial cells",
+                                      "size": 6962
+                                    },
+                                    {
+                                      "name": "Pancreatic acinar cells",
+                                      "size": 3747
+                                    },
+                                    {
+                                      "name": "Biliary epithelial cells",
+                                      "size": 1742
+                                    },
+                                    {
+                                      "name": "Pancreatic islets",
+                                      "size": 1323
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Notochord",
+                              "size": 3752,
+                              "children": [
+                                {
+                                  "name": "Ciliated nodal cells",
+                                  "size": 60
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Definitive ectoderm",
+                      "size": 6516,
+                      "children": [
+                        {
+                          "name": "Surface ectoderm",
+                          "size": 2795,
+                          "children": [
+                            {
+                              "name": "Amniotic ectoderm",
+                              "size": 11509
+                            },
+                            {
+                              "name": "CLE and NMPs",
+                              "size": 4992,
+                              "children": [
+                                {
+                                  "name": "Paraxial mesoderm (Tbx6+)",
+                                  "size": 6185,
+                                  "children": [
+                                    {
+                                      "name": "Intermediate mesoderm",
+                                      "size": 1064
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Spinal cord",
+                                  "size": 2150,
+                                  "children": [
+                                    {
+                                      "name": "Floor plate",
+                                      "size": 258
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Primordial germ cells",
+                                  "size": 1712
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Spinal cord",
+                          "size": 2150,
+                          "children": [
+                            {
+                              "name": "Floor plate",
+                              "size": 258
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Midbrain",
+                          "size": 145124,
+                          "children": [
+                            {
+                              "name": "Hypothalamus (Sim1+)",
+                              "size": 14611,
+                              "children": [
+                                {
+                                  "name": "Hypothalamic Sim1 neurons",
+                                  "size": 19592,
+                                  "children": [
+                                    {
+                                      "name": "Glutamatergic neurons (after E13.0)",
+                                      "size": 570526
+                                    },
+                                    {
+                                      "name": "Precerebellar neurons",
+                                      "size": 1286
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Di/mesencephalon glutamatergic neurons",
+                              "size": 30999,
+                              "children": [
+                                {
+                                  "name": "Glutamatergic neurons (after E13.0)",
+                                  "size": 570526
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Di/mesencephalon GABAergic neurons",
+                              "size": 15589,
+                              "children": [
+                                {
+                                  "name": "GABAergic neurons (after E13.0)",
+                                  "size": 292004
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Striatal projection neurons",
+                              "size": 6235,
+                              "children": [
+                                {
+                                  "name": "Glutamatergic neurons (after E13.0)",
+                                  "size": 570526
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Forebrain",
+                          "size": 1429
+                        },
+                        {
+                          "name": "Hindbrain",
+                          "size": 197367,
+                          "children": [
+                            {
+                              "name": "Floorplate and p3 domain",
+                              "size": 44992,
+                              "children": [
+                                {
+                                  "name": "Cranial motor neurons",
+                                  "size": 23754
+                                },
+                                {
+                                  "name": "Multiciliated ependymal cells",
+                                  "size": 10452
+                                },
+                                {
+                                  "name": "Neurons (Slc17a8+)",
+                                  "size": 1957
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Anterior roof plate",
+                              "size": 16098,
+                              "children": [
+                                {
+                                  "name": "Choroid plexus",
+                                  "size": 9441,
+                                  "children": [
+                                    {
+                                      "name": "Ependymal cells",
+                                      "size": 5895
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Astrocytes",
+                              "size": 109750,
+                              "children": [
+                                {
+                                  "name": "Multiciliated ependymal cells",
+                                  "size": 10452
+                                },
+                                {
+                                  "name": "Oligodendrocyte progenitor cells",
+                                  "size": 29522,
+                                  "children": [
+                                    {
+                                      "name": "Committed oligodendrocyte precursors",
+                                      "size": 1865
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cerebellum-related cells",
+                              "size": 9252,
+                              "children": [
+                                {
+                                  "name": "Multiciliated ependymal cells",
+                                  "size": 10452
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Spinal dI1 interneurons",
+                              "size": 35714,
+                              "children": [
+                                {
+                                  "name": "Glutamatergic neurons (after E13.0)",
+                                  "size": 570526
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Neural progenitor cells (Ror1+)",
+                              "size": 33240
+                            },
+                            {
+                              "name": "Oligodendrocyte progenitor cells",
+                              "size": 29522,
+                              "children": [
+                                {
+                                  "name": "Committed oligodendrocyte precursors",
+                                  "size": 1865
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Primordial germ cells",
+                          "size": 1712
+                        },
+                        {
+                          "name": "Neural crest",
+                          "size": 721
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Trophectoderm",
+              "size": 0,
+              "children": [
+                {
+                  "name": "Extraembryonic ectoderm",
+                  "size": 10351
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gastrulation",
+      "children": [
+        {
+          "name": "Epiblast",
+          "size": 11315,
+          "children": [
+            {
+              "name": "Primitive streak",
+              "size": 7573,
+              "children": [
+                {
+                  "name": "Nascent mesoderm",
+                  "size": 5501,
+                  "children": [
+                    {
+                      "name": "Paraxial mesoderm (Tbx6+)",
+                      "size": 6185,
+                      "children": [
+                        {
+                          "name": "Intermediate mesoderm",
+                          "size": 1064
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Extraembryonic mesoderm",
+                      "size": 57543,
+                      "children": [
+                        {
+                          "name": "Allantois",
+                          "size": 31010,
+                          "children": [
+                            {
+                              "name": "Hematoendothelial progenitors",
+                              "size": 9693,
+                              "children": [
+                                {
+                                  "name": "Blood progenitors",
+                                  "size": 2978,
+                                  "children": [
+                                    {
+                                      "name": "Primitive erythroid cells",
+                                      "size": 108610
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Gut mesenchyme",
+                          "size": 61542,
+                          "children": [
+                            {
+                              "name": "Gastrointestinal smooth muscle cells",
+                              "size": 12120
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Amniotic mesoderm",
+                          "size": 25520
+                        },
+                        {
+                          "name": "Allantois",
+                          "size": 31010,
+                          "children": [
+                            {
+                              "name": "Hematoendothelial progenitors",
+                              "size": 9693,
+                              "children": [
+                                {
+                                  "name": "Blood progenitors",
+                                  "size": 2978,
+                                  "children": [
+                                    {
+                                      "name": "Primitive erythroid cells",
+                                      "size": 108610
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Limb mesenchyme progenitors",
+                          "size": 223422
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hematoendothelial progenitors",
+                      "size": 9693,
+                      "children": [
+                        {
+                          "name": "Blood progenitors",
+                          "size": 2978,
+                          "children": [
+                            {
+                              "name": "Primitive erythroid cells",
+                              "size": 108610
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Endothelium",
+                          "size": 90215,
+                          "children": [
+                            {
+                              "name": "Venous and capillary endothelial cells",
+                              "size": 59523
+                            },
+                            {
+                              "name": "Arterial endothelial cells",
+                              "size": 26943
+                            },
+                            {
+                              "name": "Brain capillary endothelial cells",
+                              "size": 15179,
+                              "children": [
+                                {
+                                  "name": "Brain pericytes",
+                                  "size": 3617
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Pericytes",
+                              "size": 14055
+                            },
+                            {
+                              "name": "Liver sinusoidal endothelial cells",
+                              "size": 30802
+                            },
+                            {
+                              "name": "Endocardial cells",
+                              "size": 14071
+                            },
+                            {
+                              "name": "Microvascular endothelial cells",
+                              "size": 5624
+                            },
+                            {
+                              "name": "Glomerular endothelial cells",
+                              "size": 17038
+                            },
+                            {
+                              "name": "Lymphatic vessel endothelial cells",
+                              "size": 25269
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Endothelium",
+                          "size": 90215,
+                          "children": [
+                            {
+                              "name": "Venous and capillary endothelial cells",
+                              "size": 59523
+                            },
+                            {
+                              "name": "Arterial endothelial cells",
+                              "size": 26943
+                            },
+                            {
+                              "name": "Brain capillary endothelial cells",
+                              "size": 15179,
+                              "children": [
+                                {
+                                  "name": "Brain pericytes",
+                                  "size": 3617
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Pericytes",
+                              "size": 14055
+                            },
+                            {
+                              "name": "Liver sinusoidal endothelial cells",
+                              "size": 30802
+                            },
+                            {
+                              "name": "Endocardial cells",
+                              "size": 14071
+                            },
+                            {
+                              "name": "Microvascular endothelial cells",
+                              "size": 5624
+                            },
+                            {
+                              "name": "Glomerular endothelial cells",
+                              "size": 17038
+                            },
+                            {
+                              "name": "Lymphatic vessel endothelial cells",
+                              "size": 25269
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cardiopharyngeal mesoderm",
+                      "size": 19285,
+                      "children": [
+                        {
+                          "name": "Paraxial mesoderm (Tbx6-)",
+                          "size": 3107
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Primordial germ cells",
+                      "size": 1712
+                    },
+                    {
+                      "name": "Lateral plate mesoderm",
+                      "size": 2580,
+                      "children": [
+                        {
+                          "name": "Intermediate mesoderm",
+                          "size": 1064
+                        },
+                        {
+                          "name": "Amniotic mesoderm",
+                          "size": 25520
+                        },
+                        {
+                          "name": "Cardiogenic mesoderm",
+                          "size": 877
+                        },
+                        {
+                          "name": "Gut mesenchyme",
+                          "size": 61542,
+                          "children": [
+                            {
+                              "name": "Gastrointestinal smooth muscle cells",
+                              "size": 12120
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Paraxial mesoderm (Tbx6-)",
+                      "size": 3107
+                    }
+                  ]
+                },
+                {
+                  "name": "Primordial germ cells",
+                  "size": 1712
+                },
+                {
+                  "name": "Anterior primitive streak",
+                  "size": 893,
+                  "children": [
+                    {
+                      "name": "Definitive endoderm",
+                      "size": 354,
+                      "children": [
+                        {
+                          "name": "Gut",
+                          "size": 21287,
+                          "children": [
+                            {
+                              "name": "Midgut/Hindgut epithelial cells",
+                              "size": 47855,
+                              "children": [
+                                {
+                                  "name": "Intestinal goblet cells",
+                                  "size": 1745
+                                },
+                                {
+                                  "name": "Intestinal enteroendocrine cells",
+                                  "size": 536
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Hepatocytes",
+                              "size": 289569,
+                              "children": [
+                                {
+                                  "name": "Biliary epithelial cells",
+                                  "size": 1742
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Lung progenitor cells",
+                              "size": 28988,
+                              "children": [
+                                {
+                                  "name": "Alveolar Type 2 cells",
+                                  "size": 21443
+                                },
+                                {
+                                  "name": "Alveolar Type 1 cells",
+                                  "size": 14321,
+                                  "children": [
+                                    {
+                                      "name": "Lung cells (Eln+)",
+                                      "size": 5308
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Airway club cells",
+                                  "size": 6264,
+                                  "children": [
+                                    {
+                                      "name": "Airway goblet cells",
+                                      "size": 408
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Airway goblet cells",
+                                  "size": 408
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Foregut epithelial cells",
+                              "size": 6962
+                            },
+                            {
+                              "name": "Pancreatic acinar cells",
+                              "size": 3747
+                            },
+                            {
+                              "name": "Biliary epithelial cells",
+                              "size": 1742
+                            },
+                            {
+                              "name": "Pancreatic islets",
+                              "size": 1323
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Notochord",
+                      "size": 3752,
+                      "children": [
+                        {
+                          "name": "Ciliated nodal cells",
+                          "size": 60
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Primitive streak",
+              "size": 7573,
+              "children": [
+                {
+                  "name": "Nascent mesoderm",
+                  "size": 5501,
+                  "children": [
+                    {
+                      "name": "Paraxial mesoderm (Tbx6+)",
+                      "size": 6185,
+                      "children": [
+                        {
+                          "name": "Intermediate mesoderm",
+                          "size": 1064
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Extraembryonic mesoderm",
+                      "size": 57543,
+                      "children": [
+                        {
+                          "name": "Allantois",
+                          "size": 31010,
+                          "children": [
+                            {
+                              "name": "Hematoendothelial progenitors",
+                              "size": 9693,
+                              "children": [
+                                {
+                                  "name": "Blood progenitors",
+                                  "size": 2978,
+                                  "children": [
+                                    {
+                                      "name": "Primitive erythroid cells",
+                                      "size": 108610
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Gut mesenchyme",
+                          "size": 61542,
+                          "children": [
+                            {
+                              "name": "Gastrointestinal smooth muscle cells",
+                              "size": 12120
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Amniotic mesoderm",
+                          "size": 25520
+                        },
+                        {
+                          "name": "Allantois",
+                          "size": 31010,
+                          "children": [
+                            {
+                              "name": "Hematoendothelial progenitors",
+                              "size": 9693,
+                              "children": [
+                                {
+                                  "name": "Blood progenitors",
+                                  "size": 2978,
+                                  "children": [
+                                    {
+                                      "name": "Primitive erythroid cells",
+                                      "size": 108610
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Endothelium",
+                                  "size": 90215,
+                                  "children": [
+                                    {
+                                      "name": "Venous and capillary endothelial cells",
+                                      "size": 59523
+                                    },
+                                    {
+                                      "name": "Arterial endothelial cells",
+                                      "size": 26943
+                                    },
+                                    {
+                                      "name": "Brain capillary endothelial cells",
+                                      "size": 15179,
+                                      "children": [
+                                        {
+                                          "name": "Brain pericytes",
+                                          "size": 3617
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Pericytes",
+                                      "size": 14055
+                                    },
+                                    {
+                                      "name": "Liver sinusoidal endothelial cells",
+                                      "size": 30802
+                                    },
+                                    {
+                                      "name": "Endocardial cells",
+                                      "size": 14071
+                                    },
+                                    {
+                                      "name": "Microvascular endothelial cells",
+                                      "size": 5624
+                                    },
+                                    {
+                                      "name": "Glomerular endothelial cells",
+                                      "size": 17038
+                                    },
+                                    {
+                                      "name": "Lymphatic vessel endothelial cells",
+                                      "size": 25269
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Limb mesenchyme progenitors",
+                          "size": 223422
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hematoendothelial progenitors",
+                      "size": 9693,
+                      "children": [
+                        {
+                          "name": "Blood progenitors",
+                          "size": 2978,
+                          "children": [
+                            {
+                              "name": "Primitive erythroid cells",
+                              "size": 108610
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Endothelium",
+                          "size": 90215,
+                          "children": [
+                            {
+                              "name": "Venous and capillary endothelial cells",
+                              "size": 59523
+                            },
+                            {
+                              "name": "Arterial endothelial cells",
+                              "size": 26943
+                            },
+                            {
+                              "name": "Brain capillary endothelial cells",
+                              "size": 15179,
+                              "children": [
+                                {
+                                  "name": "Brain pericytes",
+                                  "size": 3617
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Pericytes",
+                              "size": 14055
+                            },
+                            {
+                              "name": "Liver sinusoidal endothelial cells",
+                              "size": 30802
+                            },
+                            {
+                              "name": "Endocardial cells",
+                              "size": 14071
+                            },
+                            {
+                              "name": "Microvascular endothelial cells",
+                              "size": 5624
+                            },
+                            {
+                              "name": "Glomerular endothelial cells",
+                              "size": 17038
+                            },
+                            {
+                              "name": "Lymphatic vessel endothelial cells",
+                              "size": 25269
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Endothelium",
+                          "size": 90215,
+                          "children": [
+                            {
+                              "name": "Venous and capillary endothelial cells",
+                              "size": 59523
+                            },
+                            {
+                              "name": "Arterial endothelial cells",
+                              "size": 26943
+                            },
+                            {
+                              "name": "Brain capillary endothelial cells",
+                              "size": 15179,
+                              "children": [
+                                {
+                                  "name": "Brain pericytes",
+                                  "size": 3617
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Pericytes",
+                              "size": 14055
+                            },
+                            {
+                              "name": "Liver sinusoidal endothelial cells",
+                              "size": 30802
+                            },
+                            {
+                              "name": "Endocardial cells",
+                              "size": 14071
+                            },
+                            {
+                              "name": "Microvascular endothelial cells",
+                              "size": 5624
+                            },
+                            {
+                              "name": "Glomerular endothelial cells",
+                              "size": 17038
+                            },
+                            {
+                              "name": "Lymphatic vessel endothelial cells",
+                              "size": 25269
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cardiopharyngeal mesoderm",
+                      "size": 19285,
+                      "children": [
+                        {
+                          "name": "Paraxial mesoderm (Tbx6-)",
+                          "size": 3107
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Primordial germ cells",
+                      "size": 1712
+                    },
+                    {
+                      "name": "Lateral plate mesoderm",
+                      "size": 2580,
+                      "children": [
+                        {
+                          "name": "Intermediate mesoderm",
+                          "size": 1064
+                        },
+                        {
+                          "name": "Amniotic mesoderm",
+                          "size": 25520
+                        },
+                        {
+                          "name": "Cardiogenic mesoderm",
+                          "size": 877
+                        },
+                        {
+                          "name": "Gut mesenchyme",
+                          "size": 61542,
+                          "children": [
+                            {
+                              "name": "Gastrointestinal smooth muscle cells",
+                              "size": 12120
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Paraxial mesoderm (Tbx6-)",
+                      "size": 3107
+                    }
+                  ]
+                },
+                {
+                  "name": "Primordial germ cells",
+                  "size": 1712
+                },
+                {
+                  "name": "Anterior primitive streak",
+                  "size": 893,
+                  "children": [
+                    {
+                      "name": "Definitive endoderm",
+                      "size": 354,
+                      "children": [
+                        {
+                          "name": "Gut",
+                          "size": 21287,
+                          "children": [
+                            {
+                              "name": "Midgut/Hindgut epithelial cells",
+                              "size": 47855,
+                              "children": [
+                                {
+                                  "name": "Intestinal goblet cells",
+                                  "size": 1745
+                                },
+                                {
+                                  "name": "Intestinal enteroendocrine cells",
+                                  "size": 536
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Hepatocytes",
+                              "size": 289569,
+                              "children": [
+                                {
+                                  "name": "Biliary epithelial cells",
+                                  "size": 1742
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Lung progenitor cells",
+                              "size": 28988,
+                              "children": [
+                                {
+                                  "name": "Alveolar Type 2 cells",
+                                  "size": 21443
+                                },
+                                {
+                                  "name": "Alveolar Type 1 cells",
+                                  "size": 14321,
+                                  "children": [
+                                    {
+                                      "name": "Lung cells (Eln+)",
+                                      "size": 5308
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Airway club cells",
+                                  "size": 6264,
+                                  "children": [
+                                    {
+                                      "name": "Airway goblet cells",
+                                      "size": 408
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Airway goblet cells",
+                                  "size": 408
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Foregut epithelial cells",
+                              "size": 6962
+                            },
+                            {
+                              "name": "Pancreatic acinar cells",
+                              "size": 3747
+                            },
+                            {
+                              "name": "Biliary epithelial cells",
+                              "size": 1742
+                            },
+                            {
+                              "name": "Pancreatic islets",
+                              "size": 1323
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Notochord",
+                      "size": 3752,
+                      "children": [
+                        {
+                          "name": "Ciliated nodal cells",
+                          "size": 60
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Definitive ectoderm",
+              "size": 6516,
+              "children": [
+                {
+                  "name": "Surface ectoderm",
+                  "size": 2795,
+                  "children": [
+                    {
+                      "name": "Amniotic ectoderm",
+                      "size": 11509
+                    },
+                    {
+                      "name": "CLE and NMPs",
+                      "size": 4992,
+                      "children": [
+                        {
+                          "name": "Paraxial mesoderm (Tbx6+)",
+                          "size": 6185,
+                          "children": [
+                            {
+                              "name": "Intermediate mesoderm",
+                              "size": 1064
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Spinal cord",
+                          "size": 2150,
+                          "children": [
+                            {
+                              "name": "Floor plate",
+                              "size": 258
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Primordial germ cells",
+                          "size": 1712
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Spinal cord",
+                  "size": 2150,
+                  "children": [
+                    {
+                      "name": "Floor plate",
+                      "size": 258
+                    }
+                  ]
+                },
+                {
+                  "name": "Midbrain",
+                  "size": 145124,
+                  "children": [
+                    {
+                      "name": "Hypothalamus (Sim1+)",
+                      "size": 14611,
+                      "children": [
+                        {
+                          "name": "Hypothalamic Sim1 neurons",
+                          "size": 19592,
+                          "children": [
+                            {
+                              "name": "Glutamatergic neurons (after E13.0)",
+                              "size": 570526
+                            },
+                            {
+                              "name": "Precerebellar neurons",
+                              "size": 1286
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Di/mesencephalon glutamatergic neurons",
+                      "size": 30999,
+                      "children": [
+                        {
+                          "name": "Glutamatergic neurons (after E13.0)",
+                          "size": 570526
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Di/mesencephalon GABAergic neurons",
+                      "size": 15589,
+                      "children": [
+                        {
+                          "name": "GABAergic neurons (after E13.0)",
+                          "size": 292004
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Striatal projection neurons",
+                      "size": 6235,
+                      "children": [
+                        {
+                          "name": "Glutamatergic neurons (after E13.0)",
+                          "size": 570526
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Forebrain",
+                  "size": 1429
+                },
+                {
+                  "name": "Hindbrain",
+                  "size": 197367,
+                  "children": [
+                    {
+                      "name": "Floorplate and p3 domain",
+                      "size": 44992,
+                      "children": [
+                        {
+                          "name": "Cranial motor neurons",
+                          "size": 23754
+                        },
+                        {
+                          "name": "Multiciliated ependymal cells",
+                          "size": 10452
+                        },
+                        {
+                          "name": "Neurons (Slc17a8+)",
+                          "size": 1957
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Anterior roof plate",
+                      "size": 16098,
+                      "children": [
+                        {
+                          "name": "Choroid plexus",
+                          "size": 9441,
+                          "children": [
+                            {
+                              "name": "Ependymal cells",
+                              "size": 5895
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Astrocytes",
+                      "size": 109750,
+                      "children": [
+                        {
+                          "name": "Multiciliated ependymal cells",
+                          "size": 10452
+                        },
+                        {
+                          "name": "Oligodendrocyte progenitor cells",
+                          "size": 29522,
+                          "children": [
+                            {
+                              "name": "Committed oligodendrocyte precursors",
+                              "size": 1865
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cerebellum-related cells",
+                      "size": 9252,
+                      "children": [
+                        {
+                          "name": "Multiciliated ependymal cells",
+                          "size": 10452
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Spinal dI1 interneurons",
+                      "size": 35714,
+                      "children": [
+                        {
+                          "name": "Glutamatergic neurons (after E13.0)",
+                          "size": 570526
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Neural progenitor cells (Ror1+)",
+                      "size": 33240
+                    },
+                    {
+                      "name": "Oligodendrocyte progenitor cells",
+                      "size": 29522,
+                      "children": [
+                        {
+                          "name": "Committed oligodendrocyte precursors",
+                          "size": 1865
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Primordial germ cells",
+                  "size": 1712
+                },
+                {
+                  "name": "Neural crest",
+                  "size": 721
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Parietal endoderm",
+          "size": 268
+        },
+        {
+          "name": "Extraembryonic ectoderm",
+          "size": 10351
+        },
+        {
+          "name": "Embryonic visceral endoderm",
+          "size": 1260,
+          "children": [
+            {
+              "name": "Gut",
+              "size": 21287,
+              "children": [
+                {
+                  "name": "Midgut/Hindgut epithelial cells",
+                  "size": 47855,
+                  "children": [
+                    {
+                      "name": "Intestinal goblet cells",
+                      "size": 1745
+                    },
+                    {
+                      "name": "Intestinal enteroendocrine cells",
+                      "size": 536
+                    }
+                  ]
+                },
+                {
+                  "name": "Hepatocytes",
+                  "size": 289569,
+                  "children": [
+                    {
+                      "name": "Biliary epithelial cells",
+                      "size": 1742
+                    }
+                  ]
+                },
+                {
+                  "name": "Lung progenitor cells",
+                  "size": 28988,
+                  "children": [
+                    {
+                      "name": "Alveolar Type 2 cells",
+                      "size": 21443
+                    },
+                    {
+                      "name": "Alveolar Type 1 cells",
+                      "size": 14321,
+                      "children": [
+                        {
+                          "name": "Lung cells (Eln+)",
+                          "size": 5308
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Airway club cells",
+                      "size": 6264,
+                      "children": [
+                        {
+                          "name": "Airway goblet cells",
+                          "size": 408
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Airway goblet cells",
+                      "size": 408
+                    }
+                  ]
+                },
+                {
+                  "name": "Foregut epithelial cells",
+                  "size": 6962
+                },
+                {
+                  "name": "Pancreatic acinar cells",
+                  "size": 3747
+                },
+                {
+                  "name": "Biliary epithelial cells",
+                  "size": 1742
+                },
+                {
+                  "name": "Pancreatic islets",
+                  "size": 1323
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Extraembryonic visceral endoderm",
+          "size": 1660
+        }
+      ]
+    },
+    {
+      "name": "Endothelium",
+      "children": [
+        {
+          "name": "Hematoendothelial progenitors",
+          "size": 9693,
+          "children": [
+            {
+              "name": "Blood progenitors",
+              "size": 2978,
+              "children": [
+                {
+                  "name": "Primitive erythroid cells",
+                  "size": 108610
+                }
+              ]
+            },
+            {
+              "name": "Endothelium",
+              "size": 90215,
+              "children": [
+                {
+                  "name": "Venous and capillary endothelial cells",
+                  "size": 59523
+                },
+                {
+                  "name": "Arterial endothelial cells",
+                  "size": 26943
+                },
+                {
+                  "name": "Brain capillary endothelial cells",
+                  "size": 15179,
+                  "children": [
+                    {
+                      "name": "Brain pericytes",
+                      "size": 3617
+                    }
+                  ]
+                },
+                {
+                  "name": "Pericytes",
+                  "size": 14055
+                },
+                {
+                  "name": "Liver sinusoidal endothelial cells",
+                  "size": 30802
+                },
+                {
+                  "name": "Endocardial cells",
+                  "size": 14071
+                },
+                {
+                  "name": "Microvascular endothelial cells",
+                  "size": 5624
+                },
+                {
+                  "name": "Glomerular endothelial cells",
+                  "size": 17038
+                },
+                {
+                  "name": "Lymphatic vessel endothelial cells",
+                  "size": 25269
+                }
+              ]
+            },
+            {
+              "name": "Endothelium",
+              "size": 90215,
+              "children": [
+                {
+                  "name": "Venous and capillary endothelial cells",
+                  "size": 59523
+                },
+                {
+                  "name": "Arterial endothelial cells",
+                  "size": 26943
+                },
+                {
+                  "name": "Brain capillary endothelial cells",
+                  "size": 15179,
+                  "children": [
+                    {
+                      "name": "Brain pericytes",
+                      "size": 3617
+                    }
+                  ]
+                },
+                {
+                  "name": "Pericytes",
+                  "size": 14055
+                },
+                {
+                  "name": "Liver sinusoidal endothelial cells",
+                  "size": 30802
+                },
+                {
+                  "name": "Endocardial cells",
+                  "size": 14071
+                },
+                {
+                  "name": "Microvascular endothelial cells",
+                  "size": 5624
+                },
+                {
+                  "name": "Glomerular endothelial cells",
+                  "size": 17038
+                },
+                {
+                  "name": "Lymphatic vessel endothelial cells",
+                  "size": 25269
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epithelial_cells",
+      "children": [
+        {
+          "name": "Placodal area",
+          "size": 60938,
+          "children": [
+            {
+              "name": "Olfactory epithelial cells",
+              "size": 33331,
+              "children": [
+                {
+                  "name": "Olfactory bulb cells",
+                  "size": 5888
+                }
+              ]
+            },
+            {
+              "name": "Branchial arch epithelium",
+              "size": 41134,
+              "children": [
+                {
+                  "name": "Dental epithelial cells",
+                  "size": 9903
+                },
+                {
+                  "name": "Tooth junctional epithelium",
+                  "size": 2918
+                },
+                {
+                  "name": "Parathyroid epithelial cells",
+                  "size": 433
+                }
+              ]
+            },
+            {
+              "name": "Olfactory pit cells",
+              "size": 2081,
+              "children": [
+                {
+                  "name": "Lens epithelial cells",
+                  "size": 1605
+                }
+              ]
+            },
+            {
+              "name": "Pituitary/Pineal gland progenitors",
+              "size": 2797,
+              "children": [
+                {
+                  "name": "Pituitary gland cells",
+                  "size": 4964
+                },
+                {
+                  "name": "Pineal gland",
+                  "size": 540
+                }
+              ]
+            },
+            {
+              "name": "Otic epithelial cells",
+              "size": 29337,
+              "children": [
+                {
+                  "name": "Cochlear hair cells",
+                  "size": 574
+                }
+              ]
+            },
+            {
+              "name": "Thyroid gland cells",
+              "size": 1578
+            },
+            {
+              "name": "Thymic epithelial cells",
+              "size": 1937,
+              "children": [
+                {
+                  "name": "Branchial arch epithelium",
+                  "size": 41134,
+                  "children": [
+                    {
+                      "name": "Dental epithelial cells",
+                      "size": 9903
+                    },
+                    {
+                      "name": "Tooth junctional epithelium",
+                      "size": 2918
+                    },
+                    {
+                      "name": "Parathyroid epithelial cells",
+                      "size": 433
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Parathyroid epithelial cells",
+              "size": 433
+            },
+            {
+              "name": "Nonsensory cochlear epithelium",
+              "size": 51
+            }
+          ]
+        },
+        {
+          "name": "Pre-epidermal keratinocytes",
+          "size": 114402,
+          "children": [
+            {
+              "name": "Basal keratinocytes",
+              "size": 19591
+            },
+            {
+              "name": "Granular keratinocytes",
+              "size": 41185,
+              "children": [
+                {
+                  "name": "Conjunctival goblet cells",
+                  "size": 1244
+                },
+                {
+                  "name": "Bladder urothelial cells",
+                  "size": 1313
+                },
+                {
+                  "name": "Corneal epithelial cells",
+                  "size": 1078
+                }
+              ]
+            },
+            {
+              "name": "Apical ectodermal ridge",
+              "size": 6330
+            }
+          ]
+        },
+        {
+          "name": "Primordial germ cells",
+          "size": 1712
+        },
+        {
+          "name": "Amniotic ectoderm",
+          "size": 11509
+        }
+      ]
+    },
+    {
+      "name": "Eye",
+      "children": [
+        {
+          "name": "Eye field",
+          "size": 43440,
+          "children": [
+            {
+              "name": "Naive retinal progenitor cells",
+              "size": 52693,
+              "children": [
+                {
+                  "name": "Retinal progenitor cells",
+                  "size": 10201,
+                  "children": [
+                    {
+                      "name": "Amacrine/Horizontal precursor cells",
+                      "size": 5154,
+                      "children": [
+                        {
+                          "name": "Amacrine cells",
+                          "size": 10061,
+                          "children": [
+                            {
+                              "name": "Cholinergic amacrine cells",
+                              "size": 1426
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Horizontal cells",
+                          "size": 910
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Bipolar precursor cells",
+                      "size": 3414
+                    },
+                    {
+                      "name": "Photoreceptor precursor cells",
+                      "size": 4703,
+                      "children": [
+                        {
+                          "name": "Cone precursor cells",
+                          "size": 5744
+                        },
+                        {
+                          "name": "Rod precursor cells",
+                          "size": 2743
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Retinal ganglion cells",
+                      "size": 11197,
+                      "children": [
+                        {
+                          "name": "PV-containing retinal ganglion cells",
+                          "size": 1133
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cone precursor cells",
+                      "size": 5744
+                    }
+                  ]
+                },
+                {
+                  "name": "Ciliary margin cells",
+                  "size": 725,
+                  "children": [
+                    {
+                      "name": "Iris pigment epithelium",
+                      "size": 592
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Retinal progenitor cells",
+              "size": 10201,
+              "children": [
+                {
+                  "name": "Amacrine/Horizontal precursor cells",
+                  "size": 5154,
+                  "children": [
+                    {
+                      "name": "Amacrine cells",
+                      "size": 10061,
+                      "children": [
+                        {
+                          "name": "Cholinergic amacrine cells",
+                          "size": 1426
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Horizontal cells",
+                      "size": 910
+                    }
+                  ]
+                },
+                {
+                  "name": "Bipolar precursor cells",
+                  "size": 3414
+                },
+                {
+                  "name": "Photoreceptor precursor cells",
+                  "size": 4703,
+                  "children": [
+                    {
+                      "name": "Cone precursor cells",
+                      "size": 5744
+                    },
+                    {
+                      "name": "Rod precursor cells",
+                      "size": 2743
+                    }
+                  ]
+                },
+                {
+                  "name": "Retinal ganglion cells",
+                  "size": 11197,
+                  "children": [
+                    {
+                      "name": "PV-containing retinal ganglion cells",
+                      "size": 1133
+                    }
+                  ]
+                },
+                {
+                  "name": "Cone precursor cells",
+                  "size": 5744
+                }
+              ]
+            },
+            {
+              "name": "Optic stalk",
+              "size": 3457,
+              "children": [
+                {
+                  "name": "Suprachiasmatic nucleus",
+                  "size": 6017
+                }
+              ]
+            },
+            {
+              "name": "Ciliary margin cells",
+              "size": 725,
+              "children": [
+                {
+                  "name": "Iris pigment epithelium",
+                  "size": 592
+                }
+              ]
+            },
+            {
+              "name": "Retinal pigment cells",
+              "size": 3242
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gut",
+      "children": [
+        {
+          "name": "Gut",
+          "size": 21287,
+          "children": [
+            {
+              "name": "Midgut/Hindgut epithelial cells",
+              "size": 47855,
+              "children": [
+                {
+                  "name": "Intestinal goblet cells",
+                  "size": 1745
+                },
+                {
+                  "name": "Intestinal enteroendocrine cells",
+                  "size": 536
+                }
+              ]
+            },
+            {
+              "name": "Hepatocytes",
+              "size": 289569,
+              "children": [
+                {
+                  "name": "Biliary epithelial cells",
+                  "size": 1742
+                }
+              ]
+            },
+            {
+              "name": "Lung progenitor cells",
+              "size": 28988,
+              "children": [
+                {
+                  "name": "Alveolar Type 2 cells",
+                  "size": 21443
+                },
+                {
+                  "name": "Alveolar Type 1 cells",
+                  "size": 14321,
+                  "children": [
+                    {
+                      "name": "Lung cells (Eln+)",
+                      "size": 5308
+                    }
+                  ]
+                },
+                {
+                  "name": "Airway club cells",
+                  "size": 6264,
+                  "children": [
+                    {
+                      "name": "Airway goblet cells",
+                      "size": 408
+                    }
+                  ]
+                },
+                {
+                  "name": "Airway goblet cells",
+                  "size": 408
+                }
+              ]
+            },
+            {
+              "name": "Foregut epithelial cells",
+              "size": 6962
+            },
+            {
+              "name": "Pancreatic acinar cells",
+              "size": 3747
+            },
+            {
+              "name": "Biliary epithelial cells",
+              "size": 1742
+            },
+            {
+              "name": "Pancreatic islets",
+              "size": 1323
+            }
+          ]
+        },
+        {
+          "name": "Extraembryonic visceral endoderm",
+          "size": 1660
+        }
+      ]
+    },
+    {
+      "name": "PNS_glia",
+      "children": [
+        {
+          "name": "Neural crest (PNS glia)",
+          "size": 70165,
+          "children": [
+            {
+              "name": "Myelinating Schwann cells",
+              "size": 35271,
+              "children": [
+                {
+                  "name": "Olfactory ensheathing cells",
+                  "size": 3947
+                }
+              ]
+            },
+            {
+              "name": "Satellite glial cells",
+              "size": 6916
+            },
+            {
+              "name": "Myelinating Schwann cells (Tgfb2+)",
+              "size": 7151
+            },
+            {
+              "name": "Olfactory ensheathing cells",
+              "size": 3947
+            },
+            {
+              "name": "Melanocyte cells",
+              "size": 3293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PNS_neurons",
+      "children": [
+        {
+          "name": "Neural crest (PNS neurons)",
+          "size": 51569,
+          "children": [
+            {
+              "name": "Olfactory sensory neurons",
+              "size": 40019,
+              "children": [
+                {
+                  "name": "Corticofugal neurons",
+                  "size": 2807
+                }
+              ]
+            },
+            {
+              "name": "Dorsal root ganglion neurons",
+              "size": 13077
+            },
+            {
+              "name": "Enteric neurons",
+              "size": 4787
+            },
+            {
+              "name": "Otic sensory neurons",
+              "size": 7844
+            },
+            {
+              "name": "Sympathetic neurons",
+              "size": 18369
+            },
+            {
+              "name": "Parasympathetic neurons",
+              "size": 8353
+            },
+            {
+              "name": "Corticofugal neurons",
+              "size": 2807
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Renal",
+      "children": [
+        {
+          "name": "Anterior intermediate mesoderm",
+          "size": 7846,
+          "children": [
+            {
+              "name": "Posterior intermediate mesoderm",
+              "size": 10600,
+              "children": [
+                {
+                  "name": "Metanephric mesenchyme",
+                  "size": 29547,
+                  "children": [
+                    {
+                      "name": "Nephron progenitors",
+                      "size": 20280,
+                      "children": [
+                        {
+                          "name": "Proximal tubule cells",
+                          "size": 16160
+                        },
+                        {
+                          "name": "Podocytes",
+                          "size": 4879
+                        },
+                        {
+                          "name": "Ascending loop of Henle",
+                          "size": 4087
+                        },
+                        {
+                          "name": "Distal convoluted tubule",
+                          "size": 1287
+                        },
+                        {
+                          "name": "Connecting tubule",
+                          "size": 563,
+                          "children": [
+                            {
+                              "name": "Collecting duct intercalated cells",
+                              "size": 434
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Renal pericytes and mesangial cells",
+                  "size": 7956
+                }
+              ]
+            },
+            {
+              "name": "Ureteric bud",
+              "size": 5851,
+              "children": [
+                {
+                  "name": "Collecting duct principal cells",
+                  "size": 1895,
+                  "children": [
+                    {
+                      "name": "Collecting duct intercalated cells",
+                      "size": 434
+                    }
+                  ]
+                },
+                {
+                  "name": "Ureteric bud stalk",
+                  "size": 401
+                }
+              ]
+            },
+            {
+              "name": "Nephron progenitors",
+              "size": 20280,
+              "children": [
+                {
+                  "name": "Proximal tubule cells",
+                  "size": 16160
+                },
+                {
+                  "name": "Podocytes",
+                  "size": 4879
+                },
+                {
+                  "name": "Ascending loop of Henle",
+                  "size": 4087
+                },
+                {
+                  "name": "Distal convoluted tubule",
+                  "size": 1287
+                },
+                {
+                  "name": "Connecting tubule",
+                  "size": 563,
+                  "children": [
+                    {
+                      "name": "Collecting duct intercalated cells",
+                      "size": 434
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lateral_plate_mesoderm",
+      "children": [
+        {
+          "name": "Extraembryonic mesoderm",
+          "size": 57543,
+          "children": [
+            {
+              "name": "Allantois",
+              "size": 31010,
+              "children": [
+                {
+                  "name": "Hematoendothelial progenitors",
+                  "size": 9693,
+                  "children": [
+                    {
+                      "name": "Blood progenitors",
+                      "size": 2978,
+                      "children": [
+                        {
+                          "name": "Primitive erythroid cells",
+                          "size": 108610
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Endothelium",
+                      "size": 90215,
+                      "children": [
+                        {
+                          "name": "Venous and capillary endothelial cells",
+                          "size": 59523
+                        },
+                        {
+                          "name": "Arterial endothelial cells",
+                          "size": 26943
+                        },
+                        {
+                          "name": "Brain capillary endothelial cells",
+                          "size": 15179,
+                          "children": [
+                            {
+                              "name": "Brain pericytes",
+                              "size": 3617
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Pericytes",
+                          "size": 14055
+                        },
+                        {
+                          "name": "Liver sinusoidal endothelial cells",
+                          "size": 30802
+                        },
+                        {
+                          "name": "Endocardial cells",
+                          "size": 14071
+                        },
+                        {
+                          "name": "Microvascular endothelial cells",
+                          "size": 5624
+                        },
+                        {
+                          "name": "Glomerular endothelial cells",
+                          "size": 17038
+                        },
+                        {
+                          "name": "Lymphatic vessel endothelial cells",
+                          "size": 25269
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Endothelium",
+                      "size": 90215,
+                      "children": [
+                        {
+                          "name": "Venous and capillary endothelial cells",
+                          "size": 59523
+                        },
+                        {
+                          "name": "Arterial endothelial cells",
+                          "size": 26943
+                        },
+                        {
+                          "name": "Brain capillary endothelial cells",
+                          "size": 15179,
+                          "children": [
+                            {
+                              "name": "Brain pericytes",
+                              "size": 3617
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Pericytes",
+                          "size": 14055
+                        },
+                        {
+                          "name": "Liver sinusoidal endothelial cells",
+                          "size": 30802
+                        },
+                        {
+                          "name": "Endocardial cells",
+                          "size": 14071
+                        },
+                        {
+                          "name": "Microvascular endothelial cells",
+                          "size": 5624
+                        },
+                        {
+                          "name": "Glomerular endothelial cells",
+                          "size": 17038
+                        },
+                        {
+                          "name": "Lymphatic vessel endothelial cells",
+                          "size": 25269
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gut mesenchyme",
+              "size": 61542,
+              "children": [
+                {
+                  "name": "Gastrointestinal smooth muscle cells",
+                  "size": 12120
+                }
+              ]
+            },
+            {
+              "name": "Amniotic mesoderm",
+              "size": 25520
+            },
+            {
+              "name": "Allantois",
+              "size": 31010,
+              "children": [
+                {
+                  "name": "Hematoendothelial progenitors",
+                  "size": 9693,
+                  "children": [
+                    {
+                      "name": "Blood progenitors",
+                      "size": 2978,
+                      "children": [
+                        {
+                          "name": "Primitive erythroid cells",
+                          "size": 108610
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Endothelium",
+                      "size": 90215,
+                      "children": [
+                        {
+                          "name": "Venous and capillary endothelial cells",
+                          "size": 59523
+                        },
+                        {
+                          "name": "Arterial endothelial cells",
+                          "size": 26943
+                        },
+                        {
+                          "name": "Brain capillary endothelial cells",
+                          "size": 15179,
+                          "children": [
+                            {
+                              "name": "Brain pericytes",
+                              "size": 3617
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Pericytes",
+                          "size": 14055
+                        },
+                        {
+                          "name": "Liver sinusoidal endothelial cells",
+                          "size": 30802
+                        },
+                        {
+                          "name": "Endocardial cells",
+                          "size": 14071
+                        },
+                        {
+                          "name": "Microvascular endothelial cells",
+                          "size": 5624
+                        },
+                        {
+                          "name": "Glomerular endothelial cells",
+                          "size": 17038
+                        },
+                        {
+                          "name": "Lymphatic vessel endothelial cells",
+                          "size": 25269
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Endothelium",
+                      "size": 90215,
+                      "children": [
+                        {
+                          "name": "Venous and capillary endothelial cells",
+                          "size": 59523
+                        },
+                        {
+                          "name": "Arterial endothelial cells",
+                          "size": 26943
+                        },
+                        {
+                          "name": "Brain capillary endothelial cells",
+                          "size": 15179,
+                          "children": [
+                            {
+                              "name": "Brain pericytes",
+                              "size": 3617
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Pericytes",
+                          "size": 14055
+                        },
+                        {
+                          "name": "Liver sinusoidal endothelial cells",
+                          "size": 30802
+                        },
+                        {
+                          "name": "Endocardial cells",
+                          "size": 14071
+                        },
+                        {
+                          "name": "Microvascular endothelial cells",
+                          "size": 5624
+                        },
+                        {
+                          "name": "Glomerular endothelial cells",
+                          "size": 17038
+                        },
+                        {
+                          "name": "Lymphatic vessel endothelial cells",
+                          "size": 25269
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Limb mesenchyme progenitors",
+              "size": 223422
+            }
+          ]
+        },
+        {
+          "name": "Cardiopharyngeal mesoderm",
+          "size": 19285,
+          "children": [
+            {
+              "name": "Paraxial mesoderm (Tbx6-)",
+              "size": 3107
+            }
+          ]
+        },
+        {
+          "name": "Somatic mesoderm",
+          "size": 126741,
+          "children": [
+            {
+              "name": "Limb mesenchyme progenitors",
+              "size": 223422
+            },
+            {
+              "name": "Mesothelial cells",
+              "size": 59211
+            },
+            {
+              "name": "Proepicardium",
+              "size": 9654
+            },
+            {
+              "name": "Second heart field",
+              "size": 3537
+            }
+          ]
+        },
+        {
+          "name": "Splanchnic mesoderm",
+          "size": 127703,
+          "children": [
+            {
+              "name": "Foregut mesenchyme",
+              "size": 17991
+            },
+            {
+              "name": "Hepatic mesenchyme",
+              "size": 28242
+            },
+            {
+              "name": "Mesothelial cells",
+              "size": 59211
+            },
+            {
+              "name": "Renal stromal cells",
+              "size": 22908
+            },
+            {
+              "name": "First heart field",
+              "size": 28647,
+              "children": [
+                {
+                  "name": "Atrial cardiomyocytes",
+                  "size": 1286
+                },
+                {
+                  "name": "Ventricular cardiomyocytes",
+                  "size": 3735
+                }
+              ]
+            },
+            {
+              "name": "Lung mesenchyme",
+              "size": 74124
+            },
+            {
+              "name": "Gonad progenitor cells",
+              "size": 4598,
+              "children": [
+                {
+                  "name": "Granulosa cells",
+                  "size": 108
+                },
+                {
+                  "name": "Adrenocortical cells",
+                  "size": 3048
+                },
+                {
+                  "name": "Sertoli cells",
+                  "size": 1719
+                },
+                {
+                  "name": "Leydig cells",
+                  "size": 294
+                }
+              ]
+            },
+            {
+              "name": "Proepicardium",
+              "size": 9654
+            },
+            {
+              "name": "Vascular smooth muscle cells",
+              "size": 24161,
+              "children": [
+                {
+                  "name": "Vascular smooth muscle cells (Pparg+)",
+                  "size": 11440
+                },
+                {
+                  "name": "Meninges",
+                  "size": 6376
+                },
+                {
+                  "name": "Airway smooth muscle cells",
+                  "size": 6938
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood",
+      "children": [
+        {
+          "name": "Hematopoietic stem cells (Cd34+)",
+          "size": 37750,
+          "children": [
+            {
+              "name": "Monocytes",
+              "size": 29268,
+              "children": [
+                {
+                  "name": "Conventional dendritic cells",
+                  "size": 4582
+                },
+                {
+                  "name": "Adipose tissue macrophages",
+                  "size": 4190
+                }
+              ]
+            },
+            {
+              "name": "Border-associated macrophages",
+              "size": 65191,
+              "children": [
+                {
+                  "name": "Microglia",
+                  "size": 8382
+                },
+                {
+                  "name": "Kupffer cells",
+                  "size": 33417
+                },
+                {
+                  "name": "Border-associated macrophages (Ms4a8a+)",
+                  "size": 4736
+                },
+                {
+                  "name": "Osteoclasts",
+                  "size": 3323
+                }
+              ]
+            },
+            {
+              "name": "Hematopoietic stem cells (Mpo+)",
+              "size": 23128,
+              "children": [
+                {
+                  "name": "Monocytic myeloid-derived suppressor cells",
+                  "size": 24741,
+                  "children": [
+                    {
+                      "name": "PMN myeloid-derived suppressor cells",
+                      "size": 15382
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Conventional dendritic cells",
+              "size": 4582
+            },
+            {
+              "name": "Definitive early erythroblasts (CD36-)",
+              "size": 929291,
+              "children": [
+                {
+                  "name": "Definitive erythroblasts (CD36+)",
+                  "size": 92446
+                }
+              ]
+            },
+            {
+              "name": "B cell progenitors",
+              "size": 1295,
+              "children": [
+                {
+                  "name": "B cells",
+                  "size": 43057
+                }
+              ]
+            },
+            {
+              "name": "Megakaryocyte-erythroid progenitors",
+              "size": 13436,
+              "children": [
+                {
+                  "name": "Definitive early erythroblasts (CD36-)",
+                  "size": 929291,
+                  "children": [
+                    {
+                      "name": "Definitive erythroblasts (CD36+)",
+                      "size": 92446
+                    }
+                  ]
+                },
+                {
+                  "name": "Megakaryocytes",
+                  "size": 14777
+                }
+              ]
+            },
+            {
+              "name": "Plasmacytoid dendritic cells",
+              "size": 1101
+            },
+            {
+              "name": "Granulocytes",
+              "size": 3547
+            },
+            {
+              "name": "Mast cells",
+              "size": 23828
+            },
+            {
+              "name": "T-NK progenitors",
+              "size": 1901,
+              "children": [
+                {
+                  "name": "T cells",
+                  "size": 70028,
+                  "children": [
+                    {
+                      "name": "Activated T cells",
+                      "size": 6621
+                    }
+                  ]
+                },
+                {
+                  "name": "Regulatory T cells",
+                  "size": 9800,
+                  "children": [
+                    {
+                      "name": "T cells",
+                      "size": 70028,
+                      "children": [
+                        {
+                          "name": "Activated T cells",
+                          "size": 6621
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Natural killer cells",
+                  "size": 2961
+                }
+              ]
+            },
+            {
+              "name": "Regulatory T cells",
+              "size": 9800,
+              "children": [
+                {
+                  "name": "T cells",
+                  "size": 70028,
+                  "children": [
+                    {
+                      "name": "Activated T cells",
+                      "size": 6621
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primitive erythroid cells",
+          "size": 108610
+        }
+      ]
+    },
+    {
+      "name": "Brain_spinal_cord",
+      "children": [
+        {
+          "name": "Midbrain",
+          "size": 145124,
+          "children": [
+            {
+              "name": "Hypothalamus (Sim1+)",
+              "size": 14611,
+              "children": [
+                {
+                  "name": "Hypothalamic Sim1 neurons",
+                  "size": 19592,
+                  "children": [
+                    {
+                      "name": "Glutamatergic neurons (after E13.0)",
+                      "size": 570526
+                    },
+                    {
+                      "name": "Precerebellar neurons",
+                      "size": 1286
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Di/mesencephalon glutamatergic neurons",
+              "size": 30999,
+              "children": [
+                {
+                  "name": "Glutamatergic neurons (after E13.0)",
+                  "size": 570526
+                }
+              ]
+            },
+            {
+              "name": "Di/mesencephalon GABAergic neurons",
+              "size": 15589,
+              "children": [
+                {
+                  "name": "GABAergic neurons (after E13.0)",
+                  "size": 292004
+                }
+              ]
+            },
+            {
+              "name": "Striatal projection neurons",
+              "size": 6235,
+              "children": [
+                {
+                  "name": "Glutamatergic neurons (after E13.0)",
+                  "size": 570526
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hindbrain",
+          "size": 197367,
+          "children": [
+            {
+              "name": "Floorplate and p3 domain",
+              "size": 44992,
+              "children": [
+                {
+                  "name": "Cranial motor neurons",
+                  "size": 23754
+                },
+                {
+                  "name": "Multiciliated ependymal cells",
+                  "size": 10452
+                },
+                {
+                  "name": "Neurons (Slc17a8+)",
+                  "size": 1957
+                }
+              ]
+            },
+            {
+              "name": "Anterior roof plate",
+              "size": 16098,
+              "children": [
+                {
+                  "name": "Choroid plexus",
+                  "size": 9441,
+                  "children": [
+                    {
+                      "name": "Ependymal cells",
+                      "size": 5895
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Astrocytes",
+              "size": 109750,
+              "children": [
+                {
+                  "name": "Multiciliated ependymal cells",
+                  "size": 10452
+                },
+                {
+                  "name": "Oligodendrocyte progenitor cells",
+                  "size": 29522,
+                  "children": [
+                    {
+                      "name": "Committed oligodendrocyte precursors",
+                      "size": 1865
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cerebellum-related cells",
+              "size": 9252,
+              "children": [
+                {
+                  "name": "Multiciliated ependymal cells",
+                  "size": 10452
+                }
+              ]
+            },
+            {
+              "name": "Spinal dI1 interneurons",
+              "size": 35714,
+              "children": [
+                {
+                  "name": "Glutamatergic neurons (after E13.0)",
+                  "size": 570526
+                }
+              ]
+            },
+            {
+              "name": "Neural progenitor cells (Ror1+)",
+              "size": 33240
+            },
+            {
+              "name": "Oligodendrocyte progenitor cells",
+              "size": 29522,
+              "children": [
+                {
+                  "name": "Committed oligodendrocyte precursors",
+                  "size": 1865
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Anterior floor plate",
+          "size": 16274,
+          "children": [
+            {
+              "name": "Midbrain dopaminergic neurons",
+              "size": 5495,
+              "children": [
+                {
+                  "name": "Glutamatergic neurons (after E13.0)",
+                  "size": 570526
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Telencephalon",
+          "size": 430409,
+          "children": [
+            {
+              "name": "Dorsal telencephalon",
+              "size": 30144,
+              "children": [
+                {
+                  "name": "Choroid plexus",
+                  "size": 9441,
+                  "children": [
+                    {
+                      "name": "Ependymal cells",
+                      "size": 5895
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Intermediate neuronal progenitors",
+              "size": 42068,
+              "children": [
+                {
+                  "name": "Deep-layer neurons",
+                  "size": 236402,
+                  "children": [
+                    {
+                      "name": "Subplate neurons",
+                      "size": 103397
+                    }
+                  ]
+                },
+                {
+                  "name": "Upper-layer neurons",
+                  "size": 238829,
+                  "children": [
+                    {
+                      "name": "Subplate neurons",
+                      "size": 103397
+                    }
+                  ]
+                },
+                {
+                  "name": "Cortical Interneurons (Prox1+)",
+                  "size": 7555
+                }
+              ]
+            },
+            {
+              "name": "GABAergic cortical interneurons",
+              "size": 603448,
+              "children": [
+                {
+                  "name": "GABAergic neurons (after E13.0)",
+                  "size": 292004
+                }
+              ]
+            },
+            {
+              "name": "Astrocytes",
+              "size": 109750,
+              "children": [
+                {
+                  "name": "Multiciliated ependymal cells",
+                  "size": 10452
+                },
+                {
+                  "name": "Oligodendrocyte progenitor cells",
+                  "size": 29522,
+                  "children": [
+                    {
+                      "name": "Committed oligodendrocyte precursors",
+                      "size": 1865
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cajal-Retzius cells",
+              "size": 81803
+            },
+            {
+              "name": "Oligodendrocyte progenitor cells",
+              "size": 29522,
+              "children": [
+                {
+                  "name": "Committed oligodendrocyte precursors",
+                  "size": 1865
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NMPs and spinal cord progenitors",
+          "size": 53734,
+          "children": [
+            {
+              "name": "Spinal cord/r7/r8",
+              "size": 395636,
+              "children": [
+                {
+                  "name": "Posterior roof plate",
+                  "size": 11623
+                },
+                {
+                  "name": "Floorplate and p3 domain",
+                  "size": 44992,
+                  "children": [
+                    {
+                      "name": "Cranial motor neurons",
+                      "size": 23754
+                    },
+                    {
+                      "name": "Multiciliated ependymal cells",
+                      "size": 10452
+                    },
+                    {
+                      "name": "Neurons (Slc17a8+)",
+                      "size": 1957
+                    }
+                  ]
+                },
+                {
+                  "name": "Neural progenitor cells (Neurod1+)",
+                  "size": 23270
+                },
+                {
+                  "name": "Spinal V1 interneurons",
+                  "size": 31325,
+                  "children": [
+                    {
+                      "name": "GABAergic neurons (after E13.0)",
+                      "size": 292004
+                    },
+                    {
+                      "name": "Spinal dI6 interneurons",
+                      "size": 10964,
+                      "children": [
+                        {
+                          "name": "GABAergic neurons (after E13.0)",
+                          "size": 292004
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Astrocytes",
+                  "size": 109750,
+                  "children": [
+                    {
+                      "name": "Multiciliated ependymal cells",
+                      "size": 10452
+                    },
+                    {
+                      "name": "Oligodendrocyte progenitor cells",
+                      "size": 29522,
+                      "children": [
+                        {
+                          "name": "Committed oligodendrocyte precursors",
+                          "size": 1865
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Spinal dI5 interneurons",
+                  "size": 39157,
+                  "children": [
+                    {
+                      "name": "Glutamatergic neurons (after E13.0)",
+                      "size": 570526
+                    },
+                    {
+                      "name": "Spinal dI3 interneurons",
+                      "size": 5430,
+                      "children": [
+                        {
+                          "name": "Glutamatergic neurons (after E13.0)",
+                          "size": 570526
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Spinal dI4 interneurons",
+                  "size": 38632,
+                  "children": [
+                    {
+                      "name": "GABAergic neurons (after E13.0)",
+                      "size": 292004
+                    }
+                  ]
+                },
+                {
+                  "name": "Spinal cord motor neurons",
+                  "size": 31680
+                },
+                {
+                  "name": "Spinal dI2 interneurons",
+                  "size": 21843,
+                  "children": [
+                    {
+                      "name": "Glutamatergic neurons (after E13.0)",
+                      "size": 570526
+                    },
+                    {
+                      "name": "Spinal V0 interneurons",
+                      "size": 9397,
+                      "children": [
+                        {
+                          "name": "Glutamatergic neurons (after E13.0)",
+                          "size": 570526
+                        },
+                        {
+                          "name": "Precerebellar neurons",
+                          "size": 1286
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cerebellar Purkinje cells",
+                      "size": 26737
+                    }
+                  ]
+                },
+                {
+                  "name": "Spinal V2a interneurons",
+                  "size": 11065,
+                  "children": [
+                    {
+                      "name": "Glutamatergic neurons (after E13.0)",
+                      "size": 570526
+                    }
+                  ]
+                },
+                {
+                  "name": "Spinal V3 interneurons",
+                  "size": 4440,
+                  "children": [
+                    {
+                      "name": "Glutamatergic neurons (after E13.0)",
+                      "size": 570526
+                    }
+                  ]
+                },
+                {
+                  "name": "Spinal V2b interneurons",
+                  "size": 8575,
+                  "children": [
+                    {
+                      "name": "GABAergic neurons (after E13.0)",
+                      "size": 292004
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Midbrain-hindbrain boundary",
+          "size": 66071,
+          "children": [
+            {
+              "name": "Anterior roof plate",
+              "size": 16098,
+              "children": [
+                {
+                  "name": "Choroid plexus",
+                  "size": 9441,
+                  "children": [
+                    {
+                      "name": "Ependymal cells",
+                      "size": 5895
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Floorplate and p3 domain",
+              "size": 44992,
+              "children": [
+                {
+                  "name": "Cranial motor neurons",
+                  "size": 23754
+                },
+                {
+                  "name": "Multiciliated ependymal cells",
+                  "size": 10452
+                },
+                {
+                  "name": "Neurons (Slc17a8+)",
+                  "size": 1957
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spinal cord ventral progenitors (after E13.0)",
+          "size": 2021
+        },
+        {
+          "name": "Hypothalamus",
+          "size": 53378,
+          "children": [
+            {
+              "name": "Hypothalamus (Sim1+)",
+              "size": 14611,
+              "children": [
+                {
+                  "name": "Hypothalamic Sim1 neurons",
+                  "size": 19592,
+                  "children": [
+                    {
+                      "name": "Glutamatergic neurons (after E13.0)",
+                      "size": 570526
+                    },
+                    {
+                      "name": "Precerebellar neurons",
+                      "size": 1286
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Diencephalon",
+          "size": 78021,
+          "children": [
+            {
+              "name": "Dorsal telencephalon",
+              "size": 30144,
+              "children": [
+                {
+                  "name": "Choroid plexus",
+                  "size": 9441,
+                  "children": [
+                    {
+                      "name": "Ependymal cells",
+                      "size": 5895
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hypothalamus (Sim1+)",
+              "size": 14611,
+              "children": [
+                {
+                  "name": "Hypothalamic Sim1 neurons",
+                  "size": 19592,
+                  "children": [
+                    {
+                      "name": "Glutamatergic neurons (after E13.0)",
+                      "size": 570526
+                    },
+                    {
+                      "name": "Precerebellar neurons",
+                      "size": 1286
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Thalamic neuronal precursors",
+              "size": 81788
+            }
+          ]
+        },
+        {
+          "name": "Spinal cord dorsal progenitors (after E13.0)",
+          "size": 8358
+        }
+      ]
+    },
+    {
+      "name": "Mesoderm",
+      "children": [
+        {
+          "name": "Sclerotome",
+          "size": 476671,
+          "children": [
+            {
+              "name": "Fibroblasts",
+              "size": 648059,
+              "children": [
+                {
+                  "name": "Pre-osteoblasts (Sp7+)",
+                  "size": 135893
+                },
+                {
+                  "name": "Adipocyte progenitor cells",
+                  "size": 19823,
+                  "children": [
+                    {
+                      "name": "Brown adipocyte cells",
+                      "size": 80279
+                    },
+                    {
+                      "name": "Adipocyte cells (Cyp2e1+)",
+                      "size": 14376
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Early chondrocytes",
+              "size": 144311
+            },
+            {
+              "name": "Chondrocytes (Atp1a2+)",
+              "size": 118412,
+              "children": [
+                {
+                  "name": "Chondrocytes (Otor+)",
+                  "size": 12063
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mesodermal progenitors (Tbx6+)",
+          "size": 50325,
+          "children": [
+            {
+              "name": "Dermomyotome",
+              "size": 131048,
+              "children": [
+                {
+                  "name": "Muscle progenitor cells",
+                  "size": 27017,
+                  "children": [
+                    {
+                      "name": "Myoblasts",
+                      "size": 185751,
+                      "children": [
+                        {
+                          "name": "Myotubes",
+                          "size": 43267
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Muscle progenitor cells (Prdm1+)",
+                      "size": 5017,
+                      "children": [
+                        {
+                          "name": "Myofibroblasts",
+                          "size": 43951
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dermatome",
+                  "size": 198888
+                },
+                {
+                  "name": "Myoblasts",
+                  "size": 185751,
+                  "children": [
+                    {
+                      "name": "Myotubes",
+                      "size": 43267
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Facial mesenchyme",
+              "size": 382752,
+              "children": [
+                {
+                  "name": "Early chondrocytes",
+                  "size": 144311
+                },
+                {
+                  "name": "Pre-osteoblasts (Sp7+)",
+                  "size": 135893
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Notochord",
+      "children": [
+        {
+          "name": "Notochord",
+          "size": 3752,
+          "children": [
+            {
+              "name": "Ciliated nodal cells",
+              "size": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
