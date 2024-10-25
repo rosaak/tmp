@@ -1,0 +1,2120 @@
+{
+  "id": "Oocyte",
+  "children": [
+    {
+      "id": "Morula",
+      "children": [
+        {
+          "id": "Inner cell mass",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        },
+        {
+          "id": "Trophectoderm",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        }
+      ]
+    },
+    {
+      "id": "Trophectoderm",
+      "children": [
+        {
+          "id": "Extraembryonic ectoderm",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        }
+      ]
+    },
+    {
+      "id": "Inner cell mass",
+      "children": [
+        {
+          "id": "Hypoblast",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        },
+        {
+          "id": "Epiblast",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        }
+      ]
+    },
+    {
+      "id": "Hypoblast",
+      "children": [
+        {
+          "id": "Parietal endoderm",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        },
+        {
+          "id": "Visceral endoderm",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        }
+      ]
+    },
+    {
+      "id": "Visceral endoderm",
+      "children": [
+        {
+          "id": "Extraembryonic visceral endoderm",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        },
+        {
+          "id": "Embryonic visceral endoderm",
+          "system": "Pre_gastrulation",
+          "color_code": "#8B4513"
+        }
+      ]
+    },
+    {
+      "id": "Epiblast",
+      "children": [
+        {
+          "id": "Primitive streak",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Definitive ectoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Anterior primitive streak",
+      "children": [
+        {
+          "id": "Definitive endoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Notochord",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Blood progenitors",
+      "children": [
+        {
+          "id": "Primitive erythroid cells",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Paraxial mesoderm (Tbx6+)",
+      "children": [
+        {
+          "id": "Intermediate mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Embryonic visceral endoderm",
+      "children": [
+        {
+          "id": "Gut",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Definitive ectoderm",
+      "children": [
+        {
+          "id": "Surface ectoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Spinal cord",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Midbrain",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Forebrain",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Hindbrain",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Primordial germ cells",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Neural crest",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Extraembryonic mesoderm",
+      "children": [
+        {
+          "id": "Allantois",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Gut mesenchyme",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Amniotic mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Limb mesenchyme progenitors",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        }
+      ]
+    },
+    {
+      "id": "Cardiopharyngeal mesoderm",
+      "children": [
+        {
+          "id": "Paraxial mesoderm (Tbx6-)",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "CLE and NMPs",
+      "children": [
+        {
+          "id": "Paraxial mesoderm (Tbx6+)",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Spinal cord",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Primordial germ cells",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Nascent mesoderm",
+      "children": [
+        {
+          "id": "Paraxial mesoderm (Tbx6+)",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Extraembryonic mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Hematoendothelial progenitors",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Cardiopharyngeal mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Primordial germ cells",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Lateral plate mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Paraxial mesoderm (Tbx6-)",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Lateral plate mesoderm",
+      "children": [
+        {
+          "id": "Intermediate mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Amniotic mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Cardiogenic mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Gut mesenchyme",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Primitive streak",
+      "children": [
+        {
+          "id": "Nascent mesoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Primordial germ cells",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Anterior primitive streak",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Hematoendothelial progenitors",
+      "children": [
+        {
+          "id": "Blood progenitors",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "Endothelium",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        }
+      ]
+    },
+    {
+      "id": "Surface ectoderm",
+      "children": [
+        {
+          "id": "Amniotic ectoderm",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        },
+        {
+          "id": "CLE and NMPs",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Definitive endoderm",
+      "children": [
+        {
+          "id": "Gut",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Allantois",
+      "children": [
+        {
+          "id": "Hematoendothelial progenitors",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Spinal cord",
+      "children": [
+        {
+          "id": "Floor plate",
+          "system": "Gastrulation",
+          "color_code": "#F5DEB3"
+        }
+      ]
+    },
+    {
+      "id": "Notochord",
+      "children": [
+        {
+          "id": "Ciliated nodal cells",
+          "system": "Notochord",
+          "color_code": "#FF69B4"
+        }
+      ]
+    },
+    {
+      "id": "Definitive early erythroblasts (CD36-)",
+      "children": [
+        {
+          "id": "Definitive erythroblasts (CD36+)",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Hematopoietic stem cells (Cd34+)",
+      "children": [
+        {
+          "id": "Monocytes",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Border-associated macrophages",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Hematopoietic stem cells (Mpo+)",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Conventional dendritic cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Definitive early erythroblasts (CD36-)",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "B cell progenitors",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Megakaryocyte-erythroid progenitors",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Plasmacytoid dendritic cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Granulocytes",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Mast cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "T-NK progenitors",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Regulatory T cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Monocytic myeloid-derived suppressor cells",
+      "children": [
+        {
+          "id": "PMN myeloid-derived suppressor cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Regulatory T cells",
+      "children": [
+        {
+          "id": "T cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "T cells",
+      "children": [
+        {
+          "id": "Activated T cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Megakaryocyte-erythroid progenitors",
+      "children": [
+        {
+          "id": "Definitive early erythroblasts (CD36-)",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Megakaryocytes",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Border-associated macrophages",
+      "children": [
+        {
+          "id": "Microglia",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Kupffer cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Border-associated macrophages (Ms4a8a+)",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Osteoclasts",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Hematopoietic stem cells (Mpo+)",
+      "children": [
+        {
+          "id": "Monocytic myeloid-derived suppressor cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "B cell progenitors",
+      "children": [
+        {
+          "id": "B cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "T-NK progenitors",
+      "children": [
+        {
+          "id": "T cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Regulatory T cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Natural killer cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Monocytes",
+      "children": [
+        {
+          "id": "Conventional dendritic cells",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        },
+        {
+          "id": "Adipose tissue macrophages",
+          "system": "Blood",
+          "color_code": "#FF6347"
+        }
+      ]
+    },
+    {
+      "id": "Eye field",
+      "children": [
+        {
+          "id": "Naive retinal progenitor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Retinal progenitor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Optic stalk",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Ciliary margin cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Retinal pigment cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Naive retinal progenitor cells",
+      "children": [
+        {
+          "id": "Retinal progenitor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Ciliary margin cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Retinal progenitor cells",
+      "children": [
+        {
+          "id": "Amacrine/Horizontal precursor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Bipolar precursor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Photoreceptor precursor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Retinal ganglion cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Cone precursor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Optic stalk",
+      "children": [
+        {
+          "id": "Suprachiasmatic nucleus",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Photoreceptor precursor cells",
+      "children": [
+        {
+          "id": "Cone precursor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Rod precursor cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Amacrine/Horizontal precursor cells",
+      "children": [
+        {
+          "id": "Amacrine cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        },
+        {
+          "id": "Horizontal cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Ciliary margin cells",
+      "children": [
+        {
+          "id": "Iris pigment epithelium",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Amacrine cells",
+      "children": [
+        {
+          "id": "Cholinergic amacrine cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Retinal ganglion cells",
+      "children": [
+        {
+          "id": "PV-containing retinal ganglion cells",
+          "system": "Eye",
+          "color_code": "#F4A460"
+        }
+      ]
+    },
+    {
+      "id": "Posterior intermediate mesoderm",
+      "children": [
+        {
+          "id": "Metanephric mesenchyme",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Renal pericytes and mesangial cells",
+          "system": "Renal",
+          "color_code": "#696969"
+        }
+      ]
+    },
+    {
+      "id": "Nephron progenitors",
+      "children": [
+        {
+          "id": "Proximal tubule cells",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Podocytes",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Ascending loop of Henle",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Distal convoluted tubule",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Connecting tubule",
+          "system": "Renal",
+          "color_code": "#696969"
+        }
+      ]
+    },
+    {
+      "id": "Metanephric mesenchyme",
+      "children": [
+        {
+          "id": "Nephron progenitors",
+          "system": "Renal",
+          "color_code": "#696969"
+        }
+      ]
+    },
+    {
+      "id": "Anterior intermediate mesoderm",
+      "children": [
+        {
+          "id": "Posterior intermediate mesoderm",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Ureteric bud",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Nephron progenitors",
+          "system": "Renal",
+          "color_code": "#696969"
+        }
+      ]
+    },
+    {
+      "id": "Ureteric bud",
+      "children": [
+        {
+          "id": "Collecting duct principal cells",
+          "system": "Renal",
+          "color_code": "#696969"
+        },
+        {
+          "id": "Ureteric bud stalk",
+          "system": "Renal",
+          "color_code": "#696969"
+        }
+      ]
+    },
+    {
+      "id": "Collecting duct principal cells",
+      "children": [
+        {
+          "id": "Collecting duct intercalated cells",
+          "system": "Renal",
+          "color_code": "#696969"
+        }
+      ]
+    },
+    {
+      "id": "Connecting tubule",
+      "children": [
+        {
+          "id": "Collecting duct intercalated cells",
+          "system": "Renal",
+          "color_code": "#696969"
+        }
+      ]
+    },
+    {
+      "id": "Gut",
+      "children": [
+        {
+          "id": "Midgut/Hindgut epithelial cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Hepatocytes",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Lung progenitor cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Foregut epithelial cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Pancreatic acinar cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Biliary epithelial cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Pancreatic islets",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        }
+      ]
+    },
+    {
+      "id": "Lung progenitor cells",
+      "children": [
+        {
+          "id": "Alveolar Type 2 cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Alveolar Type 1 cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Airway club cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Airway goblet cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        }
+      ]
+    },
+    {
+      "id": "Midgut/Hindgut epithelial cells",
+      "children": [
+        {
+          "id": "Intestinal goblet cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        },
+        {
+          "id": "Intestinal enteroendocrine cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        }
+      ]
+    },
+    {
+      "id": "Hepatocytes",
+      "children": [
+        {
+          "id": "Biliary epithelial cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        }
+      ]
+    },
+    {
+      "id": "Alveolar Type 1 cells",
+      "children": [
+        {
+          "id": "Lung cells (Eln+)",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        }
+      ]
+    },
+    {
+      "id": "Airway club cells",
+      "children": [
+        {
+          "id": "Airway goblet cells",
+          "system": "Gut",
+          "color_code": "#9ACD32"
+        }
+      ]
+    },
+    {
+      "id": "Neural crest (PNS glia)",
+      "children": [
+        {
+          "id": "Myelinating Schwann cells",
+          "system": "PNS_glia",
+          "color_code": "#FF4500"
+        },
+        {
+          "id": "Satellite glial cells",
+          "system": "PNS_glia",
+          "color_code": "#FF4500"
+        },
+        {
+          "id": "Myelinating Schwann cells (Tgfb2+)",
+          "system": "PNS_glia",
+          "color_code": "#FF4500"
+        },
+        {
+          "id": "Olfactory ensheathing cells",
+          "system": "PNS_glia",
+          "color_code": "#FF4500"
+        },
+        {
+          "id": "Melanocyte cells",
+          "system": "PNS_glia",
+          "color_code": "#FF4500"
+        }
+      ]
+    },
+    {
+      "id": "Myelinating Schwann cells",
+      "children": [
+        {
+          "id": "Olfactory ensheathing cells",
+          "system": "PNS_glia",
+          "color_code": "#FF4500"
+        }
+      ]
+    },
+    {
+      "id": "Neural crest (PNS neurons)",
+      "children": [
+        {
+          "id": "Olfactory sensory neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        },
+        {
+          "id": "Dorsal root ganglion neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        },
+        {
+          "id": "Enteric neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        },
+        {
+          "id": "Otic sensory neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        },
+        {
+          "id": "Sympathetic neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        },
+        {
+          "id": "Parasympathetic neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        },
+        {
+          "id": "Corticofugal neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        }
+      ]
+    },
+    {
+      "id": "Olfactory sensory neurons",
+      "children": [
+        {
+          "id": "Corticofugal neurons",
+          "system": "PNS_neurons",
+          "color_code": "#CD853F"
+        }
+      ]
+    },
+    {
+      "id": "Somatic mesoderm",
+      "children": [
+        {
+          "id": "Limb mesenchyme progenitors",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Mesothelial cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Proepicardium",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Second heart field",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        }
+      ]
+    },
+    {
+      "id": "Splanchnic mesoderm",
+      "children": [
+        {
+          "id": "Foregut mesenchyme",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Hepatic mesenchyme",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Mesothelial cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Renal stromal cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "First heart field",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Lung mesenchyme",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Gonad progenitor cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Proepicardium",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Vascular smooth muscle cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        }
+      ]
+    },
+    {
+      "id": "Vascular smooth muscle cells",
+      "children": [
+        {
+          "id": "Vascular smooth muscle cells (Pparg+)",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Meninges",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Airway smooth muscle cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        }
+      ]
+    },
+    {
+      "id": "Gut mesenchyme",
+      "children": [
+        {
+          "id": "Gastrointestinal smooth muscle cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        }
+      ]
+    },
+    {
+      "id": "First heart field",
+      "children": [
+        {
+          "id": "Atrial cardiomyocytes",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Ventricular cardiomyocytes",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        }
+      ]
+    },
+    {
+      "id": "Gonad progenitor cells",
+      "children": [
+        {
+          "id": "Granulosa cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Adrenocortical cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Sertoli cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        },
+        {
+          "id": "Leydig cells",
+          "system": "Lateral_plate_mesoderm",
+          "color_code": "#87CEFA"
+        }
+      ]
+    },
+    {
+      "id": "Endothelium",
+      "children": [
+        {
+          "id": "Venous and capillary endothelial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Arterial endothelial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Brain capillary endothelial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Pericytes",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Liver sinusoidal endothelial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Endocardial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Microvascular endothelial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Glomerular endothelial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        },
+        {
+          "id": "Lymphatic vessel endothelial cells",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        }
+      ]
+    },
+    {
+      "id": "Brain capillary endothelial cells",
+      "children": [
+        {
+          "id": "Brain pericytes",
+          "system": "Endothelium",
+          "color_code": "#D8BFD8"
+        }
+      ]
+    },
+    {
+      "id": "Sclerotome",
+      "children": [
+        {
+          "id": "Fibroblasts",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Early chondrocytes",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Chondrocytes (Atp1a2+)",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Muscle progenitor cells",
+      "children": [
+        {
+          "id": "Myoblasts",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Muscle progenitor cells (Prdm1+)",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Fibroblasts",
+      "children": [
+        {
+          "id": "Pre-osteoblasts (Sp7+)",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Adipocyte progenitor cells",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Adipocyte progenitor cells",
+      "children": [
+        {
+          "id": "Brown adipocyte cells",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Adipocyte cells (Cyp2e1+)",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Facial mesenchyme",
+      "children": [
+        {
+          "id": "Early chondrocytes",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Pre-osteoblasts (Sp7+)",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Dermomyotome",
+      "children": [
+        {
+          "id": "Muscle progenitor cells",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Dermatome",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Myoblasts",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Myoblasts",
+      "children": [
+        {
+          "id": "Myotubes",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Mesodermal progenitors (Tbx6+)",
+      "children": [
+        {
+          "id": "Dermomyotome",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        },
+        {
+          "id": "Facial mesenchyme",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Chondrocytes (Atp1a2+)",
+      "children": [
+        {
+          "id": "Chondrocytes (Otor+)",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Muscle progenitor cells (Prdm1+)",
+      "children": [
+        {
+          "id": "Myofibroblasts",
+          "system": "Mesoderm",
+          "color_code": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "id": "Placodal area",
+      "children": [
+        {
+          "id": "Olfactory epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Branchial arch epithelium",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Olfactory pit cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Pituitary/Pineal gland progenitors",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Otic epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Thyroid gland cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Thymic epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Parathyroid epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Nonsensory cochlear epithelium",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Pre-epidermal keratinocytes",
+      "children": [
+        {
+          "id": "Basal keratinocytes",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Granular keratinocytes",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Apical ectodermal ridge",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Pituitary/Pineal gland progenitors",
+      "children": [
+        {
+          "id": "Pituitary gland cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Pineal gland",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Branchial arch epithelium",
+      "children": [
+        {
+          "id": "Dental epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Tooth junctional epithelium",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Parathyroid epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Olfactory epithelial cells",
+      "children": [
+        {
+          "id": "Olfactory bulb cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Granular keratinocytes",
+      "children": [
+        {
+          "id": "Conjunctival goblet cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Bladder urothelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        },
+        {
+          "id": "Corneal epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Thymic epithelial cells",
+      "children": [
+        {
+          "id": "Branchial arch epithelium",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Otic epithelial cells",
+      "children": [
+        {
+          "id": "Cochlear hair cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Olfactory pit cells",
+      "children": [
+        {
+          "id": "Lens epithelial cells",
+          "system": "Epithelial_cells",
+          "color_code": "#FFDAB9"
+        }
+      ]
+    },
+    {
+      "id": "Telencephalon",
+      "children": [
+        {
+          "id": "Dorsal telencephalon",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Intermediate neuronal progenitors",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "GABAergic cortical interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Astrocytes",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Cajal-Retzius cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Oligodendrocyte progenitor cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Hindbrain",
+      "children": [
+        {
+          "id": "Floorplate and p3 domain",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Anterior roof plate",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Astrocytes",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Cerebellum-related cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal dI1 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Neural progenitor cells (Ror1+)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Oligodendrocyte progenitor cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Midbrain",
+      "children": [
+        {
+          "id": "Hypothalamus (Sim1+)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Di/mesencephalon glutamatergic neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Di/mesencephalon GABAergic neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Striatal projection neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal cord/r7/r8",
+      "children": [
+        {
+          "id": "Posterior roof plate",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Floorplate and p3 domain",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Neural progenitor cells (Neurod1+)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal V1 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Astrocytes",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal dI5 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal dI4 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal cord motor neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal dI2 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal V2a interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal V3 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal V2b interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Diencephalon",
+      "children": [
+        {
+          "id": "Dorsal telencephalon",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Hypothalamus (Sim1+)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Thalamic neuronal precursors",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Midbrain-hindbrain boundary",
+      "children": [
+        {
+          "id": "Anterior roof plate",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Floorplate and p3 domain",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Hypothalamus",
+      "children": [
+        {
+          "id": "Hypothalamus (Sim1+)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal dI4 interneurons",
+      "children": [
+        {
+          "id": "GABAergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal dI5 interneurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal dI3 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Di/mesencephalon glutamatergic neurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "GABAergic cortical interneurons",
+      "children": [
+        {
+          "id": "GABAergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal dI1 interneurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Di/mesencephalon GABAergic neurons",
+      "children": [
+        {
+          "id": "GABAergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Deep-layer neurons",
+      "children": [
+        {
+          "id": "Subplate neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Hypothalamic Sim1 neurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Precerebellar neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal V1 interneurons",
+      "children": [
+        {
+          "id": "GABAergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal dI6 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "NMPs and spinal cord progenitors",
+      "children": [
+        {
+          "id": "Spinal cord/r7/r8",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Upper-layer neurons",
+      "children": [
+        {
+          "id": "Subplate neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal dI2 interneurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Spinal V0 interneurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Cerebellar Purkinje cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Midbrain dopaminergic neurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal dI6 interneurons",
+      "children": [
+        {
+          "id": "GABAergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal V2b interneurons",
+      "children": [
+        {
+          "id": "GABAergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Intermediate neuronal progenitors",
+      "children": [
+        {
+          "id": "Deep-layer neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Upper-layer neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Cortical Interneurons (Prox1+)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal dI3 interneurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal V2a interneurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal V0 interneurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Precerebellar neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Astrocytes",
+      "children": [
+        {
+          "id": "Multiciliated ependymal cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Oligodendrocyte progenitor cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Spinal V3 interneurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Oligodendrocyte progenitor cells",
+      "children": [
+        {
+          "id": "Committed oligodendrocyte precursors",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Striatal projection neurons",
+      "children": [
+        {
+          "id": "Glutamatergic neurons (after E13.0)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Dorsal telencephalon",
+      "children": [
+        {
+          "id": "Choroid plexus",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Anterior roof plate",
+      "children": [
+        {
+          "id": "Choroid plexus",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Floorplate and p3 domain",
+      "children": [
+        {
+          "id": "Cranial motor neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Multiciliated ependymal cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        },
+        {
+          "id": "Neurons (Slc17a8+)",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Cerebellum-related cells",
+      "children": [
+        {
+          "id": "Multiciliated ependymal cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Hypothalamus (Sim1+)",
+      "children": [
+        {
+          "id": "Hypothalamic Sim1 neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Anterior floor plate",
+      "children": [
+        {
+          "id": "Midbrain dopaminergic neurons",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    },
+    {
+      "id": "Choroid plexus",
+      "children": [
+        {
+          "id": "Ependymal cells",
+          "system": "Brain_spinal_cord",
+          "color_code": "#90EE90"
+        }
+      ]
+    }
+  ]
+}
